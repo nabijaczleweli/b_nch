@@ -591,7 +591,7 @@ Param.val=421.69969398843170000000
 AddParam
 
 Param.h.v.=000d0011
-Param.val=-0.00000000000000000000
+Param.val=0.00000000000000000000
 AddParam
 
 Param.h.v.=000d0013
@@ -599,7 +599,6 @@ Param.val=485.33930429522098000000
 AddParam
 
 Param.h.v.=000d0014
-Param.val=0.00000000000000000000
 AddParam
 
 Param.h.v.=000e0010
@@ -607,7 +606,7 @@ Param.val=421.69969398843170000000
 AddParam
 
 Param.h.v.=000e0011
-Param.val=-0.00000000000000000000
+Param.val=0.00000000000000000000
 AddParam
 
 Param.h.v.=000e0013
@@ -631,7 +630,6 @@ Param.val=485.33930429522098000000
 AddParam
 
 Param.h.v.=00100014
-Param.val=0.00000000000000000000
 AddParam
 
 Param.h.v.=00110010
