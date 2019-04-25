@@ -907,7 +907,7 @@ Group.remap={
     135 80090011 0
     136 80090012 0
 }
-Group.impFileRel=leg_thin_fore.slvs
+Group.impFileRel=leg_thin.slvs
 AddGroup
 
 Group.h.v=00000007
@@ -13058,7 +13058,7 @@ Param.val=1.00000000000000000000
 AddParam
 
 Param.h.v.=40000037
-Param.val=-0.00983333333333329465
+Param.val=-0.00983333333333329639
 AddParam
 
 Param.h.v.=4000003a
@@ -13341,7 +13341,7 @@ Param.val=-0.70701656095556875137
 AddParam
 
 Param.h.v.=80150004
-Param.val=0.01129524389115098455
+Param.val=0.01129524389115098282
 AddParam
 
 Param.h.v.=80150005
@@ -13349,7 +13349,7 @@ Param.val=0.70701656095556875137
 AddParam
 
 Param.h.v.=80150006
-Param.val=-0.01129524389115098282
+Param.val=-0.01129524389115098455
 AddParam
 
 Param.h.v.=80160000
@@ -31764,7 +31764,7 @@ AddEntity
 Entity.h.v=80100328
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=-452.41572875253802976658
+Entity.actPoint.x=-452.41572875253808661000
 Entity.actPoint.y=266.13413067230908382044
 Entity.actPoint.z=87.76929643810791503711
 Entity.actVisible=1
@@ -31773,7 +31773,7 @@ AddEntity
 Entity.h.v=80100329
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=-452.41572875253802976658
+Entity.actPoint.x=-452.41572875253808661000
 Entity.actPoint.y=262.49145662211230956018
 Entity.actPoint.z=77.92140703153846459372
 Entity.actVisible=1
@@ -31843,7 +31843,7 @@ AddEntity
 Entity.h.v=80100331
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=-452.41572875253802976658
+Entity.actPoint.x=-452.41572875253808661000
 Entity.actPoint.y=262.49145662211230956018
 Entity.actPoint.z=77.92140703153846459372
 Entity.actVisible=1
@@ -31852,7 +31852,7 @@ AddEntity
 Entity.h.v=80100332
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=-452.41572875253802976658
+Entity.actPoint.x=-452.41572875253808661000
 Entity.actPoint.y=252.14159719726507091764
 Entity.actPoint.z=76.15211059343056376747
 Entity.actVisible=1
@@ -31923,7 +31923,7 @@ AddEntity
 Entity.h.v=8010033a
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=-452.41572875253802976658
+Entity.actPoint.x=-452.41572875253808661000
 Entity.actPoint.y=252.14159719726507091764
 Entity.actPoint.z=76.15211059343056376747
 Entity.actVisible=1
@@ -31932,7 +31932,7 @@ AddEntity
 Entity.h.v=8010033b
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=-452.41572875253802976658
+Entity.actPoint.x=-452.41572875253808661000
 Entity.actPoint.y=245.43441182261469180048
 Entity.actPoint.z=84.23070356189208496289
 Entity.actVisible=1
@@ -32003,7 +32003,7 @@ AddEntity
 Entity.h.v=80100343
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=-452.41572875253802976658
+Entity.actPoint.x=-452.41572875253808661000
 Entity.actPoint.y=245.43441182261469180048
 Entity.actPoint.z=84.23070356189208496289
 Entity.actVisible=1
@@ -32012,7 +32012,7 @@ AddEntity
 Entity.h.v=80100344
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=-452.41572875253802976658
+Entity.actPoint.x=-452.41572875253808661000
 Entity.actPoint.y=249.07708587281152290416
 Entity.actPoint.z=94.07859296846152119542
 Entity.actVisible=1
@@ -32083,7 +32083,7 @@ AddEntity
 Entity.h.v=8010034c
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=-452.41572875253802976658
+Entity.actPoint.x=-452.41572875253808661000
 Entity.actPoint.y=249.07708587281152290416
 Entity.actPoint.z=94.07859296846152119542
 Entity.actVisible=1
@@ -32092,7 +32092,7 @@ AddEntity
 Entity.h.v=8010034d
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=-452.41572875253802976658
+Entity.actPoint.x=-452.41572875253808661000
 Entity.actPoint.y=259.42694529765873312499
 Entity.actPoint.z=95.84788940656943623253
 Entity.actVisible=1
@@ -32163,7 +32163,7 @@ AddEntity
 Entity.h.v=80100355
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=-452.41572875253802976658
+Entity.actPoint.x=-452.41572875253808661000
 Entity.actPoint.y=259.42694529765873312499
 Entity.actPoint.z=95.84788940656943623253
 Entity.actVisible=1
@@ -32172,7 +32172,7 @@ AddEntity
 Entity.h.v=80100356
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=-452.41572875253802976658
+Entity.actPoint.x=-452.41572875253808661000
 Entity.actPoint.y=266.13413067230908382044
 Entity.actPoint.z=87.76929643810791503711
 Entity.actVisible=1
@@ -32240,7 +32240,7 @@ AddEntity
 Entity.h.v=8010035d
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=-452.41572875253802976658
+Entity.actPoint.x=-452.41572875253808661000
 Entity.actPoint.y=255.78427124746190202131
 Entity.actPoint.z=86.00000000000000000000
 Entity.actVisible=1
@@ -32257,7 +32257,7 @@ AddEntity
 Entity.h.v=8010035f
 Entity.type=5003
 Entity.construction=0
-Entity.actPoint.x=-452.41572875253802976658
+Entity.actPoint.x=-452.41572875253808661000
 Entity.actPoint.y=255.78427124746190202131
 Entity.actPoint.z=86.00000000000000000000
 Entity.actNormal.vx=-1.00000000000000000000
@@ -32514,7 +32514,7 @@ AddEntity
 Entity.h.v=8010037a
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=-452.41572875253802976658
+Entity.actPoint.x=-452.41572875253808661000
 Entity.actPoint.y=255.78427124746190202131
 Entity.actPoint.z=86.00000000000000000000
 Entity.actVisible=1
@@ -32580,7 +32580,7 @@ AddEntity
 Entity.h.v=80100381
 Entity.type=2010
 Entity.construction=0
-Entity.actPoint.x=-452.41572875253802976658
+Entity.actPoint.x=-452.41572875253808661000
 Entity.actPoint.y=255.78427124746190202131
 Entity.actPoint.z=86.00000000000000000000
 Entity.actVisible=1
@@ -32597,7 +32597,7 @@ AddEntity
 Entity.h.v=80100383
 Entity.type=5003
 Entity.construction=0
-Entity.actPoint.x=-452.41572875253802976658
+Entity.actPoint.x=-452.41572875253808661000
 Entity.actPoint.y=255.78427124746190202131
 Entity.actPoint.z=86.00000000000000000000
 Entity.actNormal.vx=1.00000000000000000000
@@ -45373,9 +45373,9 @@ Entity.type=3011
 Entity.construction=0
 Entity.point[0].v=80150002
 Entity.actNormal.w=-0.70701656095556875137
-Entity.actNormal.vx=0.01129524389115098455
+Entity.actNormal.vx=0.01129524389115098282
 Entity.actNormal.vy=0.70701656095556875137
-Entity.actNormal.vz=-0.01129524389115098282
+Entity.actNormal.vz=-0.01129524389115098455
 Entity.actVisible=1
 AddEntity
 
@@ -45596,9 +45596,9 @@ Entity.type=3011
 Entity.construction=0
 Entity.point[0].v=8015001d
 Entity.actNormal.w=-0.70701656095556875137
-Entity.actNormal.vx=0.01129524389115098455
+Entity.actNormal.vx=0.01129524389115098282
 Entity.actNormal.vy=0.70701656095556875137
-Entity.actNormal.vz=-0.01129524389115098282
+Entity.actNormal.vz=-0.01129524389115098455
 Entity.actVisible=1
 AddEntity
 
@@ -45632,9 +45632,9 @@ Entity.type=3011
 Entity.construction=0
 Entity.point[0].v=80150021
 Entity.actNormal.w=-0.70701656095556875137
-Entity.actNormal.vx=0.01129524389115098455
+Entity.actNormal.vx=0.01129524389115098282
 Entity.actNormal.vy=0.70701656095556875137
-Entity.actNormal.vz=-0.01129524389115098282
+Entity.actNormal.vz=-0.01129524389115098455
 Entity.actVisible=1
 AddEntity
 
@@ -45686,9 +45686,9 @@ Entity.type=3011
 Entity.construction=0
 Entity.point[0].v=8015002a
 Entity.actNormal.w=-0.70701656095556875137
-Entity.actNormal.vx=0.01129524389115098455
+Entity.actNormal.vx=0.01129524389115098282
 Entity.actNormal.vy=0.70701656095556875137
-Entity.actNormal.vz=-0.01129524389115098282
+Entity.actNormal.vz=-0.01129524389115098455
 Entity.actVisible=1
 AddEntity
 
@@ -45759,7 +45759,7 @@ Entity.construction=0
 Entity.actPoint.x=508.78427124746190202131
 Entity.actPoint.y=-190.29480699518643405099
 Entity.actPoint.z=80.46220666698278023432
-Entity.actNormal.vx=0.00000000000000000347
+Entity.actNormal.vx=-0.00000000000000000347
 Entity.actNormal.vy=0.99948966986175780125
 Entity.actNormal.vz=-0.03194369796430386599
 Entity.actVisible=1
@@ -45839,7 +45839,7 @@ Entity.construction=0
 Entity.actPoint.x=508.78427124746190202131
 Entity.actPoint.y=-189.95939816656124321526
 Entity.actPoint.z=90.95684820053122621175
-Entity.actNormal.vx=0.00000000000000004448
+Entity.actNormal.vx=0.00000000000000004099
 Entity.actNormal.vy=0.52740888885878345338
 Entity.actNormal.vz=0.84961159593825186231
 Entity.actVisible=1
@@ -45919,7 +45919,7 @@ Entity.construction=0
 Entity.actPoint.x=508.78427124746190202131
 Entity.actPoint.y=-198.88031992391290714295
 Entity.actPoint.z=96.49464153354846018829
-Entity.actNormal.vx=0.00000000000000004101
+Entity.actNormal.vx=0.00000000000000004446
 Entity.actNormal.vy=-0.47208078100297407032
 Entity.actNormal.vz=0.88155529390255615851
 Entity.actVisible=1
@@ -45999,7 +45999,7 @@ Entity.construction=0
 Entity.actPoint.x=508.78427124746190202131
 Entity.actPoint.y=-208.13665050988973348467
 Entity.actPoint.z=91.53779333301723397653
-Entity.actNormal.vx=-0.00000000000000000347
+Entity.actNormal.vx=0.00000000000000000347
 Entity.actNormal.vy=-0.99948966986175769023
 Entity.actNormal.vz=0.03194369796430369252
 Entity.actVisible=1
@@ -46079,7 +46079,7 @@ Entity.construction=0
 Entity.actPoint.x=508.78427124746190202131
 Entity.actPoint.y=-208.47205933851492432041
 Entity.actPoint.z=81.04315179946877378825
-Entity.actNormal.vx=-0.00000000000000004448
+Entity.actNormal.vx=-0.00000000000000004099
 Entity.actNormal.vy=-0.52740888885878367542
 Entity.actNormal.vz=-0.84961159593825164027
 Entity.actVisible=1
@@ -46159,7 +46159,7 @@ Entity.construction=0
 Entity.actPoint.x=508.78427124746190202131
 Entity.actPoint.y=-199.55113758116328881442
 Entity.actPoint.z=75.50535846645155402257
-Entity.actNormal.vx=-0.00000000000000004101
+Entity.actNormal.vx=-0.00000000000000004446
 Entity.actNormal.vy=0.47208078100297418134
 Entity.actNormal.vz=-0.88155529390255615851
 Entity.actVisible=1
@@ -46186,9 +46186,9 @@ Entity.type=3011
 Entity.construction=0
 Entity.point[0].v=80150062
 Entity.actNormal.w=-0.70701656095556875137
-Entity.actNormal.vx=0.01129524389115098455
+Entity.actNormal.vx=0.01129524389115098282
 Entity.actNormal.vy=0.70701656095556875137
-Entity.actNormal.vz=-0.01129524389115098282
+Entity.actNormal.vz=-0.01129524389115098455
 Entity.actVisible=1
 AddEntity
 
@@ -46206,9 +46206,9 @@ Entity.type=3011
 Entity.construction=0
 Entity.point[0].v=80150064
 Entity.actNormal.w=-0.70701656095556875137
-Entity.actNormal.vx=0.01129524389115098455
+Entity.actNormal.vx=0.01129524389115098282
 Entity.actNormal.vy=0.70701656095556875137
-Entity.actNormal.vz=-0.01129524389115098282
+Entity.actNormal.vz=-0.01129524389115098455
 Entity.actVisible=1
 AddEntity
 
@@ -46236,8 +46236,8 @@ Entity.actPoint.x=498.98427124746189065263
 Entity.actPoint.y=-199.21572875253809797869
 Entity.actPoint.z=86.00000000000000000000
 Entity.actNormal.vx=1.00000000000000000000
-Entity.actNormal.vy=-0.00000000000000000347
-Entity.actNormal.vz=-0.00000000000000000615
+Entity.actNormal.vy=0.00000000000000000347
+Entity.actNormal.vz=-0.00000000000000000618
 Entity.actVisible=1
 AddEntity
 
@@ -46248,8 +46248,8 @@ Entity.actPoint.x=508.78427124746190202131
 Entity.actPoint.y=-199.21572875253809797869
 Entity.actPoint.z=86.00000000000000000000
 Entity.actNormal.vx=1.00000000000000000000
-Entity.actNormal.vy=-0.00000000000000000347
-Entity.actNormal.vz=-0.00000000000000000615
+Entity.actNormal.vy=0.00000000000000000347
+Entity.actNormal.vz=-0.00000000000000000618
 Entity.actVisible=1
 AddEntity
 
@@ -46258,9 +46258,9 @@ Entity.type=3011
 Entity.construction=0
 Entity.point[0].v=8015006a
 Entity.actNormal.w=-0.70701656095556875137
-Entity.actNormal.vx=0.01129524389115098455
+Entity.actNormal.vx=0.01129524389115098282
 Entity.actNormal.vy=0.70701656095556875137
-Entity.actNormal.vz=-0.01129524389115098282
+Entity.actNormal.vz=-0.01129524389115098455
 Entity.actVisible=1
 AddEntity
 
@@ -46278,9 +46278,9 @@ Entity.type=3011
 Entity.construction=0
 Entity.point[0].v=8015006d
 Entity.actNormal.w=-0.70701656095556875137
-Entity.actNormal.vx=0.01129524389115098455
+Entity.actNormal.vx=0.01129524389115098282
 Entity.actNormal.vy=0.70701656095556875137
-Entity.actNormal.vz=-0.01129524389115098282
+Entity.actNormal.vz=-0.01129524389115098455
 Entity.actVisible=1
 AddEntity
 
@@ -46316,9 +46316,9 @@ Entity.type=3011
 Entity.construction=0
 Entity.point[0].v=8015006f
 Entity.actNormal.w=-0.70701656095556875137
-Entity.actNormal.vx=0.01129524389115098455
+Entity.actNormal.vx=0.01129524389115098282
 Entity.actNormal.vy=0.70701656095556875137
-Entity.actNormal.vz=-0.01129524389115098282
+Entity.actNormal.vz=-0.01129524389115098455
 Entity.actVisible=1
 AddEntity
 
@@ -46352,9 +46352,9 @@ Entity.type=3011
 Entity.construction=0
 Entity.point[0].v=80150073
 Entity.actNormal.w=-0.70701656095556875137
-Entity.actNormal.vx=0.01129524389115098455
+Entity.actNormal.vx=0.01129524389115098282
 Entity.actNormal.vy=0.70701656095556875137
-Entity.actNormal.vz=-0.01129524389115098282
+Entity.actNormal.vz=-0.01129524389115098455
 Entity.actVisible=1
 AddEntity
 
@@ -46378,9 +46378,9 @@ Entity.type=3011
 Entity.construction=0
 Entity.point[0].v=80150078
 Entity.actNormal.w=-0.70701656095556875137
-Entity.actNormal.vx=0.01129524389115098455
+Entity.actNormal.vx=0.01129524389115098282
 Entity.actNormal.vy=0.70701656095556875137
-Entity.actNormal.vz=-0.01129524389115098282
+Entity.actNormal.vz=-0.01129524389115098455
 Entity.actVisible=1
 AddEntity
 
@@ -46398,9 +46398,9 @@ Entity.type=3011
 Entity.construction=0
 Entity.point[0].v=8015007a
 Entity.actNormal.w=-0.70701656095556875137
-Entity.actNormal.vx=0.01129524389115098455
+Entity.actNormal.vx=0.01129524389115098282
 Entity.actNormal.vy=0.70701656095556875137
-Entity.actNormal.vz=-0.01129524389115098282
+Entity.actNormal.vz=-0.01129524389115098455
 Entity.actVisible=1
 AddEntity
 
@@ -46428,8 +46428,8 @@ Entity.actPoint.x=511.28427124746190202131
 Entity.actPoint.y=-199.21572875253809797869
 Entity.actPoint.z=86.00000000000000000000
 Entity.actNormal.vx=-1.00000000000000000000
-Entity.actNormal.vy=0.00000000000000000347
-Entity.actNormal.vz=0.00000000000000000615
+Entity.actNormal.vy=-0.00000000000000000347
+Entity.actNormal.vz=0.00000000000000000618
 Entity.actVisible=1
 AddEntity
 
@@ -46440,8 +46440,8 @@ Entity.actPoint.x=508.78427124746190202131
 Entity.actPoint.y=-199.21572875253809797869
 Entity.actPoint.z=86.00000000000000000000
 Entity.actNormal.vx=-1.00000000000000000000
-Entity.actNormal.vy=0.00000000000000000347
-Entity.actNormal.vz=0.00000000000000000615
+Entity.actNormal.vy=-0.00000000000000000347
+Entity.actNormal.vz=0.00000000000000000618
 Entity.actVisible=1
 AddEntity
 
@@ -46468,9 +46468,9 @@ Entity.type=3011
 Entity.construction=0
 Entity.point[0].v=8015007f
 Entity.actNormal.w=-0.70701656095556875137
-Entity.actNormal.vx=0.01129524389115098455
+Entity.actNormal.vx=0.01129524389115098282
 Entity.actNormal.vy=0.70701656095556875137
-Entity.actNormal.vz=-0.01129524389115098282
+Entity.actNormal.vz=-0.01129524389115098455
 Entity.actVisible=1
 AddEntity
 
@@ -46504,9 +46504,9 @@ Entity.type=3011
 Entity.construction=0
 Entity.point[0].v=80150083
 Entity.actNormal.w=-0.70701656095556875137
-Entity.actNormal.vx=0.01129524389115098455
+Entity.actNormal.vx=0.01129524389115098282
 Entity.actNormal.vy=0.70701656095556875137
-Entity.actNormal.vz=-0.01129524389115098282
+Entity.actNormal.vz=-0.01129524389115098455
 Entity.actVisible=1
 AddEntity
 
@@ -46530,9 +46530,9 @@ Entity.type=3011
 Entity.construction=0
 Entity.point[0].v=80150088
 Entity.actNormal.w=-0.70701656095556875137
-Entity.actNormal.vx=0.01129524389115098455
+Entity.actNormal.vx=0.01129524389115098282
 Entity.actNormal.vy=0.70701656095556875137
-Entity.actNormal.vz=-0.01129524389115098282
+Entity.actNormal.vz=-0.01129524389115098455
 Entity.actVisible=1
 AddEntity
 
@@ -46550,9 +46550,9 @@ Entity.type=3011
 Entity.construction=0
 Entity.point[0].v=8015008a
 Entity.actNormal.w=-0.70701656095556875137
-Entity.actNormal.vx=0.01129524389115098455
+Entity.actNormal.vx=0.01129524389115098282
 Entity.actNormal.vy=0.70701656095556875137
-Entity.actNormal.vz=-0.01129524389115098282
+Entity.actNormal.vz=-0.01129524389115098455
 Entity.actVisible=1
 AddEntity
 
@@ -46580,8 +46580,8 @@ Entity.actPoint.x=498.98427124746189065263
 Entity.actPoint.y=-199.21572875253809797869
 Entity.actPoint.z=86.00000000000000000000
 Entity.actNormal.vx=-1.00000000000000000000
-Entity.actNormal.vy=0.00000000000000000347
-Entity.actNormal.vz=0.00000000000000000615
+Entity.actNormal.vy=-0.00000000000000000347
+Entity.actNormal.vz=0.00000000000000000618
 Entity.actVisible=1
 AddEntity
 
@@ -46592,8 +46592,8 @@ Entity.actPoint.x=508.78427124746190202131
 Entity.actPoint.y=-199.21572875253809797869
 Entity.actPoint.z=86.00000000000000000000
 Entity.actNormal.vx=-1.00000000000000000000
-Entity.actNormal.vy=0.00000000000000000347
-Entity.actNormal.vz=0.00000000000000000615
+Entity.actNormal.vy=-0.00000000000000000347
+Entity.actNormal.vz=0.00000000000000000618
 Entity.actVisible=1
 AddEntity
 
@@ -46752,8 +46752,8 @@ Entity.actPoint.x=511.28427124746190202131
 Entity.actPoint.y=-199.21572875253809797869
 Entity.actPoint.z=86.00000000000000000000
 Entity.actNormal.vx=-1.00000000000000000000
-Entity.actNormal.vy=0.00000000000000000347
-Entity.actNormal.vz=0.00000000000000000615
+Entity.actNormal.vy=-0.00000000000000000347
+Entity.actNormal.vz=0.00000000000000000618
 Entity.actVisible=1
 AddEntity
 
@@ -46764,8 +46764,8 @@ Entity.actPoint.x=508.78427124746190202131
 Entity.actPoint.y=-199.21572875253809797869
 Entity.actPoint.z=86.00000000000000000000
 Entity.actNormal.vx=-1.00000000000000000000
-Entity.actNormal.vy=0.00000000000000000347
-Entity.actNormal.vz=0.00000000000000000615
+Entity.actNormal.vy=-0.00000000000000000347
+Entity.actNormal.vz=0.00000000000000000618
 Entity.actVisible=1
 AddEntity
 
@@ -46783,9 +46783,9 @@ Entity.type=3010
 Entity.construction=0
 Entity.point[0].v=80160001
 Entity.actNormal.w=-0.70701656095556875137
-Entity.actNormal.vx=0.01129524389115098455
+Entity.actNormal.vx=0.01129524389115098282
 Entity.actNormal.vy=0.70701656095556875137
-Entity.actNormal.vz=-0.01129524389115098282
+Entity.actNormal.vz=-0.01129524389115098455
 Entity.actVisible=1
 AddEntity
 
@@ -47006,9 +47006,9 @@ Entity.type=3010
 Entity.construction=0
 Entity.point[0].v=8016001a
 Entity.actNormal.w=-0.70701656095556875137
-Entity.actNormal.vx=0.01129524389115098455
+Entity.actNormal.vx=0.01129524389115098282
 Entity.actNormal.vy=0.70701656095556875137
-Entity.actNormal.vz=-0.01129524389115098282
+Entity.actNormal.vz=-0.01129524389115098455
 Entity.actVisible=1
 AddEntity
 
@@ -47042,9 +47042,9 @@ Entity.type=3010
 Entity.construction=0
 Entity.point[0].v=8016001e
 Entity.actNormal.w=-0.70701656095556875137
-Entity.actNormal.vx=0.01129524389115098455
+Entity.actNormal.vx=0.01129524389115098282
 Entity.actNormal.vy=0.70701656095556875137
-Entity.actNormal.vz=-0.01129524389115098282
+Entity.actNormal.vz=-0.01129524389115098455
 Entity.actVisible=1
 AddEntity
 
@@ -47096,9 +47096,9 @@ Entity.type=3010
 Entity.construction=0
 Entity.point[0].v=80160026
 Entity.actNormal.w=-0.70701656095556875137
-Entity.actNormal.vx=0.01129524389115098455
+Entity.actNormal.vx=0.01129524389115098282
 Entity.actNormal.vy=0.70701656095556875137
-Entity.actNormal.vz=-0.01129524389115098282
+Entity.actNormal.vz=-0.01129524389115098455
 Entity.actVisible=1
 AddEntity
 
@@ -47169,7 +47169,7 @@ Entity.construction=0
 Entity.actPoint.x=508.78427124746190202131
 Entity.actPoint.y=-190.29480699518643405099
 Entity.actPoint.z=80.46220666698278023432
-Entity.actNormal.vx=0.00000000000000000347
+Entity.actNormal.vx=-0.00000000000000000347
 Entity.actNormal.vy=0.99948966986175780125
 Entity.actNormal.vz=-0.03194369796430386599
 Entity.actVisible=1
@@ -47249,7 +47249,7 @@ Entity.construction=0
 Entity.actPoint.x=508.78427124746190202131
 Entity.actPoint.y=-189.95939816656124321526
 Entity.actPoint.z=90.95684820053122621175
-Entity.actNormal.vx=0.00000000000000004448
+Entity.actNormal.vx=0.00000000000000004099
 Entity.actNormal.vy=0.52740888885878345338
 Entity.actNormal.vz=0.84961159593825186231
 Entity.actVisible=1
@@ -47329,7 +47329,7 @@ Entity.construction=0
 Entity.actPoint.x=508.78427124746190202131
 Entity.actPoint.y=-198.88031992391290714295
 Entity.actPoint.z=96.49464153354846018829
-Entity.actNormal.vx=0.00000000000000004101
+Entity.actNormal.vx=0.00000000000000004446
 Entity.actNormal.vy=-0.47208078100297407032
 Entity.actNormal.vz=0.88155529390255615851
 Entity.actVisible=1
@@ -47409,7 +47409,7 @@ Entity.construction=0
 Entity.actPoint.x=508.78427124746190202131
 Entity.actPoint.y=-208.13665050988973348467
 Entity.actPoint.z=91.53779333301723397653
-Entity.actNormal.vx=-0.00000000000000000347
+Entity.actNormal.vx=0.00000000000000000347
 Entity.actNormal.vy=-0.99948966986175769023
 Entity.actNormal.vz=0.03194369796430369252
 Entity.actVisible=1
@@ -47489,7 +47489,7 @@ Entity.construction=0
 Entity.actPoint.x=508.78427124746190202131
 Entity.actPoint.y=-208.47205933851492432041
 Entity.actPoint.z=81.04315179946877378825
-Entity.actNormal.vx=-0.00000000000000004448
+Entity.actNormal.vx=-0.00000000000000004099
 Entity.actNormal.vy=-0.52740888885878378645
 Entity.actNormal.vz=-0.84961159593825186231
 Entity.actVisible=1
@@ -47569,7 +47569,7 @@ Entity.construction=0
 Entity.actPoint.x=508.78427124746190202131
 Entity.actPoint.y=-199.55113758116328881442
 Entity.actPoint.z=75.50535846645155402257
-Entity.actNormal.vx=-0.00000000000000004101
+Entity.actNormal.vx=-0.00000000000000004446
 Entity.actNormal.vy=0.47208078100297418134
 Entity.actNormal.vz=-0.88155529390255615851
 Entity.actVisible=1
@@ -47596,9 +47596,9 @@ Entity.type=3010
 Entity.construction=0
 Entity.point[0].v=8016005e
 Entity.actNormal.w=-0.70701656095556875137
-Entity.actNormal.vx=0.01129524389115098455
+Entity.actNormal.vx=0.01129524389115098282
 Entity.actNormal.vy=0.70701656095556875137
-Entity.actNormal.vz=-0.01129524389115098282
+Entity.actNormal.vz=-0.01129524389115098455
 Entity.actVisible=1
 AddEntity
 
@@ -47616,9 +47616,9 @@ Entity.type=3010
 Entity.construction=0
 Entity.point[0].v=80160060
 Entity.actNormal.w=-0.70701656095556875137
-Entity.actNormal.vx=0.01129524389115098455
+Entity.actNormal.vx=0.01129524389115098282
 Entity.actNormal.vy=0.70701656095556875137
-Entity.actNormal.vz=-0.01129524389115098282
+Entity.actNormal.vz=-0.01129524389115098455
 Entity.actVisible=1
 AddEntity
 
@@ -47646,8 +47646,8 @@ Entity.actPoint.x=498.98427124746189065263
 Entity.actPoint.y=-199.21572875253809797869
 Entity.actPoint.z=86.00000000000000000000
 Entity.actNormal.vx=1.00000000000000000000
-Entity.actNormal.vy=-0.00000000000000000347
-Entity.actNormal.vz=-0.00000000000000000615
+Entity.actNormal.vy=0.00000000000000000347
+Entity.actNormal.vz=-0.00000000000000000618
 Entity.actVisible=1
 AddEntity
 
@@ -47658,8 +47658,8 @@ Entity.actPoint.x=508.78427124746190202131
 Entity.actPoint.y=-199.21572875253809797869
 Entity.actPoint.z=86.00000000000000000000
 Entity.actNormal.vx=1.00000000000000000000
-Entity.actNormal.vy=-0.00000000000000000347
-Entity.actNormal.vz=-0.00000000000000000615
+Entity.actNormal.vy=0.00000000000000000347
+Entity.actNormal.vz=-0.00000000000000000618
 Entity.actVisible=1
 AddEntity
 
@@ -47668,9 +47668,9 @@ Entity.type=3010
 Entity.construction=0
 Entity.point[0].v=80160065
 Entity.actNormal.w=-0.70701656095556875137
-Entity.actNormal.vx=0.01129524389115098455
+Entity.actNormal.vx=0.01129524389115098282
 Entity.actNormal.vy=0.70701656095556875137
-Entity.actNormal.vz=-0.01129524389115098282
+Entity.actNormal.vz=-0.01129524389115098455
 Entity.actVisible=1
 AddEntity
 
@@ -47688,9 +47688,9 @@ Entity.type=3010
 Entity.construction=0
 Entity.point[0].v=80160067
 Entity.actNormal.w=-0.70701656095556875137
-Entity.actNormal.vx=0.01129524389115098455
+Entity.actNormal.vx=0.01129524389115098282
 Entity.actNormal.vy=0.70701656095556875137
-Entity.actNormal.vz=-0.01129524389115098282
+Entity.actNormal.vz=-0.01129524389115098455
 Entity.actVisible=1
 AddEntity
 
@@ -47726,9 +47726,9 @@ Entity.type=3010
 Entity.construction=0
 Entity.point[0].v=80160069
 Entity.actNormal.w=-0.70701656095556875137
-Entity.actNormal.vx=0.01129524389115098455
+Entity.actNormal.vx=0.01129524389115098282
 Entity.actNormal.vy=0.70701656095556875137
-Entity.actNormal.vz=-0.01129524389115098282
+Entity.actNormal.vz=-0.01129524389115098455
 Entity.actVisible=1
 AddEntity
 
@@ -47762,9 +47762,9 @@ Entity.type=3010
 Entity.construction=0
 Entity.point[0].v=8016006d
 Entity.actNormal.w=-0.70701656095556875137
-Entity.actNormal.vx=0.01129524389115098455
+Entity.actNormal.vx=0.01129524389115098282
 Entity.actNormal.vy=0.70701656095556875137
-Entity.actNormal.vz=-0.01129524389115098282
+Entity.actNormal.vz=-0.01129524389115098455
 Entity.actVisible=1
 AddEntity
 
@@ -47788,9 +47788,9 @@ Entity.type=3010
 Entity.construction=0
 Entity.point[0].v=80160072
 Entity.actNormal.w=-0.70701656095556875137
-Entity.actNormal.vx=0.01129524389115098455
+Entity.actNormal.vx=0.01129524389115098282
 Entity.actNormal.vy=0.70701656095556875137
-Entity.actNormal.vz=-0.01129524389115098282
+Entity.actNormal.vz=-0.01129524389115098455
 Entity.actVisible=1
 AddEntity
 
@@ -47808,9 +47808,9 @@ Entity.type=3010
 Entity.construction=0
 Entity.point[0].v=80160074
 Entity.actNormal.w=-0.70701656095556875137
-Entity.actNormal.vx=0.01129524389115098455
+Entity.actNormal.vx=0.01129524389115098282
 Entity.actNormal.vy=0.70701656095556875137
-Entity.actNormal.vz=-0.01129524389115098282
+Entity.actNormal.vz=-0.01129524389115098455
 Entity.actVisible=1
 AddEntity
 
@@ -47838,8 +47838,8 @@ Entity.actPoint.x=511.28427124746190202131
 Entity.actPoint.y=-199.21572875253809797869
 Entity.actPoint.z=86.00000000000000000000
 Entity.actNormal.vx=-1.00000000000000000000
-Entity.actNormal.vy=0.00000000000000000347
-Entity.actNormal.vz=0.00000000000000000615
+Entity.actNormal.vy=-0.00000000000000000347
+Entity.actNormal.vz=0.00000000000000000618
 Entity.actVisible=1
 AddEntity
 
@@ -47850,8 +47850,8 @@ Entity.actPoint.x=508.78427124746190202131
 Entity.actPoint.y=-199.21572875253809797869
 Entity.actPoint.z=86.00000000000000000000
 Entity.actNormal.vx=-1.00000000000000000000
-Entity.actNormal.vy=0.00000000000000000347
-Entity.actNormal.vz=0.00000000000000000615
+Entity.actNormal.vy=-0.00000000000000000347
+Entity.actNormal.vz=0.00000000000000000618
 Entity.actVisible=1
 AddEntity
 
@@ -47878,9 +47878,9 @@ Entity.type=3010
 Entity.construction=0
 Entity.point[0].v=80160079
 Entity.actNormal.w=-0.70701656095556875137
-Entity.actNormal.vx=0.01129524389115098455
+Entity.actNormal.vx=0.01129524389115098282
 Entity.actNormal.vy=0.70701656095556875137
-Entity.actNormal.vz=-0.01129524389115098282
+Entity.actNormal.vz=-0.01129524389115098455
 Entity.actVisible=1
 AddEntity
 
@@ -47914,9 +47914,9 @@ Entity.type=3010
 Entity.construction=0
 Entity.point[0].v=8016007d
 Entity.actNormal.w=-0.70701656095556875137
-Entity.actNormal.vx=0.01129524389115098455
+Entity.actNormal.vx=0.01129524389115098282
 Entity.actNormal.vy=0.70701656095556875137
-Entity.actNormal.vz=-0.01129524389115098282
+Entity.actNormal.vz=-0.01129524389115098455
 Entity.actVisible=1
 AddEntity
 
@@ -47940,9 +47940,9 @@ Entity.type=3010
 Entity.construction=0
 Entity.point[0].v=80160082
 Entity.actNormal.w=-0.70701656095556875137
-Entity.actNormal.vx=0.01129524389115098455
+Entity.actNormal.vx=0.01129524389115098282
 Entity.actNormal.vy=0.70701656095556875137
-Entity.actNormal.vz=-0.01129524389115098282
+Entity.actNormal.vz=-0.01129524389115098455
 Entity.actVisible=1
 AddEntity
 
@@ -47960,9 +47960,9 @@ Entity.type=3010
 Entity.construction=0
 Entity.point[0].v=80160084
 Entity.actNormal.w=-0.70701656095556875137
-Entity.actNormal.vx=0.01129524389115098455
+Entity.actNormal.vx=0.01129524389115098282
 Entity.actNormal.vy=0.70701656095556875137
-Entity.actNormal.vz=-0.01129524389115098282
+Entity.actNormal.vz=-0.01129524389115098455
 Entity.actVisible=1
 AddEntity
 
@@ -47990,8 +47990,8 @@ Entity.actPoint.x=498.98427124746189065263
 Entity.actPoint.y=-199.21572875253809797869
 Entity.actPoint.z=86.00000000000000000000
 Entity.actNormal.vx=-1.00000000000000000000
-Entity.actNormal.vy=0.00000000000000000347
-Entity.actNormal.vz=0.00000000000000000615
+Entity.actNormal.vy=-0.00000000000000000347
+Entity.actNormal.vz=0.00000000000000000618
 Entity.actVisible=1
 AddEntity
 
@@ -48002,8 +48002,8 @@ Entity.actPoint.x=508.78427124746190202131
 Entity.actPoint.y=-199.21572875253809797869
 Entity.actPoint.z=86.00000000000000000000
 Entity.actNormal.vx=-1.00000000000000000000
-Entity.actNormal.vy=0.00000000000000000347
-Entity.actNormal.vz=0.00000000000000000615
+Entity.actNormal.vy=-0.00000000000000000347
+Entity.actNormal.vz=0.00000000000000000618
 Entity.actVisible=1
 AddEntity
 
@@ -48162,8 +48162,8 @@ Entity.actPoint.x=511.28427124746190202131
 Entity.actPoint.y=-199.21572875253809797869
 Entity.actPoint.z=86.00000000000000000000
 Entity.actNormal.vx=-1.00000000000000000000
-Entity.actNormal.vy=0.00000000000000000347
-Entity.actNormal.vz=0.00000000000000000615
+Entity.actNormal.vy=-0.00000000000000000347
+Entity.actNormal.vz=0.00000000000000000618
 Entity.actVisible=1
 AddEntity
 
@@ -48174,8 +48174,8 @@ Entity.actPoint.x=508.78427124746190202131
 Entity.actPoint.y=-199.21572875253809797869
 Entity.actPoint.z=86.00000000000000000000
 Entity.actNormal.vx=-1.00000000000000000000
-Entity.actNormal.vy=0.00000000000000000347
-Entity.actNormal.vz=0.00000000000000000615
+Entity.actNormal.vy=-0.00000000000000000347
+Entity.actNormal.vz=0.00000000000000000618
 Entity.actVisible=1
 AddEntity
 
@@ -48193,9 +48193,9 @@ Entity.type=3010
 Entity.construction=0
 Entity.point[0].v=80160133
 Entity.actNormal.w=-0.70701656095556875137
-Entity.actNormal.vx=0.01129524389115098455
+Entity.actNormal.vx=0.01129524389115098282
 Entity.actNormal.vy=0.70701656095556875137
-Entity.actNormal.vz=-0.01129524389115098282
+Entity.actNormal.vz=-0.01129524389115098455
 Entity.actVisible=1
 AddEntity
 
@@ -48416,9 +48416,9 @@ Entity.type=3010
 Entity.construction=0
 Entity.point[0].v=8016014c
 Entity.actNormal.w=-0.70701656095556875137
-Entity.actNormal.vx=0.01129524389115098455
+Entity.actNormal.vx=0.01129524389115098282
 Entity.actNormal.vy=0.70701656095556875137
-Entity.actNormal.vz=-0.01129524389115098282
+Entity.actNormal.vz=-0.01129524389115098455
 Entity.actVisible=1
 AddEntity
 
@@ -48452,9 +48452,9 @@ Entity.type=3010
 Entity.construction=0
 Entity.point[0].v=80160150
 Entity.actNormal.w=-0.70701656095556875137
-Entity.actNormal.vx=0.01129524389115098455
+Entity.actNormal.vx=0.01129524389115098282
 Entity.actNormal.vy=0.70701656095556875137
-Entity.actNormal.vz=-0.01129524389115098282
+Entity.actNormal.vz=-0.01129524389115098455
 Entity.actVisible=1
 AddEntity
 
@@ -48506,9 +48506,9 @@ Entity.type=3010
 Entity.construction=0
 Entity.point[0].v=80160158
 Entity.actNormal.w=-0.70701656095556875137
-Entity.actNormal.vx=0.01129524389115098455
+Entity.actNormal.vx=0.01129524389115098282
 Entity.actNormal.vy=0.70701656095556875137
-Entity.actNormal.vz=-0.01129524389115098282
+Entity.actNormal.vz=-0.01129524389115098455
 Entity.actVisible=1
 AddEntity
 
@@ -48579,7 +48579,7 @@ Entity.construction=0
 Entity.actPoint.x=508.78427124746190202131
 Entity.actPoint.y=264.70519300481356594901
 Entity.actPoint.z=80.46220666698278023432
-Entity.actNormal.vx=0.00000000000000000347
+Entity.actNormal.vx=-0.00000000000000000347
 Entity.actNormal.vy=0.99948966986175780125
 Entity.actNormal.vz=-0.03194369796430386599
 Entity.actVisible=1
@@ -48659,7 +48659,7 @@ Entity.construction=0
 Entity.actPoint.x=508.78427124746190202131
 Entity.actPoint.y=265.04060183343875678474
 Entity.actPoint.z=90.95684820053122621175
-Entity.actNormal.vx=0.00000000000000004448
+Entity.actNormal.vx=0.00000000000000004099
 Entity.actNormal.vy=0.52740888885878345338
 Entity.actNormal.vz=0.84961159593825186231
 Entity.actVisible=1
@@ -48739,7 +48739,7 @@ Entity.construction=0
 Entity.actPoint.x=508.78427124746190202131
 Entity.actPoint.y=256.11968007608709285705
 Entity.actPoint.z=96.49464153354846018829
-Entity.actNormal.vx=0.00000000000000004101
+Entity.actNormal.vx=0.00000000000000004446
 Entity.actNormal.vy=-0.47208078100297407032
 Entity.actNormal.vz=0.88155529390255615851
 Entity.actVisible=1
@@ -48819,7 +48819,7 @@ Entity.construction=0
 Entity.actPoint.x=508.78427124746190202131
 Entity.actPoint.y=246.86334949011026651533
 Entity.actPoint.z=91.53779333301723397653
-Entity.actNormal.vx=-0.00000000000000000347
+Entity.actNormal.vx=0.00000000000000000347
 Entity.actNormal.vy=-0.99948966986175769023
 Entity.actNormal.vz=0.03194369796430369252
 Entity.actVisible=1
@@ -48899,7 +48899,7 @@ Entity.construction=0
 Entity.actPoint.x=508.78427124746190202131
 Entity.actPoint.y=246.52794066148507567959
 Entity.actPoint.z=81.04315179946877378825
-Entity.actNormal.vx=-0.00000000000000004448
+Entity.actNormal.vx=-0.00000000000000004099
 Entity.actNormal.vy=-0.52740888885878378645
 Entity.actNormal.vz=-0.84961159593825186231
 Entity.actVisible=1
@@ -48979,7 +48979,7 @@ Entity.construction=0
 Entity.actPoint.x=508.78427124746190202131
 Entity.actPoint.y=255.44886241883671118558
 Entity.actPoint.z=75.50535846645155402257
-Entity.actNormal.vx=-0.00000000000000004101
+Entity.actNormal.vx=-0.00000000000000004446
 Entity.actNormal.vy=0.47208078100297418134
 Entity.actNormal.vz=-0.88155529390255615851
 Entity.actVisible=1
@@ -49006,9 +49006,9 @@ Entity.type=3010
 Entity.construction=0
 Entity.point[0].v=80160190
 Entity.actNormal.w=-0.70701656095556875137
-Entity.actNormal.vx=0.01129524389115098455
+Entity.actNormal.vx=0.01129524389115098282
 Entity.actNormal.vy=0.70701656095556875137
-Entity.actNormal.vz=-0.01129524389115098282
+Entity.actNormal.vz=-0.01129524389115098455
 Entity.actVisible=1
 AddEntity
 
@@ -49026,9 +49026,9 @@ Entity.type=3010
 Entity.construction=0
 Entity.point[0].v=80160192
 Entity.actNormal.w=-0.70701656095556875137
-Entity.actNormal.vx=0.01129524389115098455
+Entity.actNormal.vx=0.01129524389115098282
 Entity.actNormal.vy=0.70701656095556875137
-Entity.actNormal.vz=-0.01129524389115098282
+Entity.actNormal.vz=-0.01129524389115098455
 Entity.actVisible=1
 AddEntity
 
@@ -49056,8 +49056,8 @@ Entity.actPoint.x=498.98427124746189065263
 Entity.actPoint.y=255.78427124746190202131
 Entity.actPoint.z=86.00000000000000000000
 Entity.actNormal.vx=1.00000000000000000000
-Entity.actNormal.vy=-0.00000000000000000347
-Entity.actNormal.vz=-0.00000000000000000615
+Entity.actNormal.vy=0.00000000000000000347
+Entity.actNormal.vz=-0.00000000000000000618
 Entity.actVisible=1
 AddEntity
 
@@ -49068,8 +49068,8 @@ Entity.actPoint.x=508.78427124746190202131
 Entity.actPoint.y=255.78427124746190202131
 Entity.actPoint.z=86.00000000000000000000
 Entity.actNormal.vx=1.00000000000000000000
-Entity.actNormal.vy=-0.00000000000000000347
-Entity.actNormal.vz=-0.00000000000000000615
+Entity.actNormal.vy=0.00000000000000000347
+Entity.actNormal.vz=-0.00000000000000000618
 Entity.actVisible=1
 AddEntity
 
@@ -49078,9 +49078,9 @@ Entity.type=3010
 Entity.construction=0
 Entity.point[0].v=80160197
 Entity.actNormal.w=-0.70701656095556875137
-Entity.actNormal.vx=0.01129524389115098455
+Entity.actNormal.vx=0.01129524389115098282
 Entity.actNormal.vy=0.70701656095556875137
-Entity.actNormal.vz=-0.01129524389115098282
+Entity.actNormal.vz=-0.01129524389115098455
 Entity.actVisible=1
 AddEntity
 
@@ -49098,9 +49098,9 @@ Entity.type=3010
 Entity.construction=0
 Entity.point[0].v=80160199
 Entity.actNormal.w=-0.70701656095556875137
-Entity.actNormal.vx=0.01129524389115098455
+Entity.actNormal.vx=0.01129524389115098282
 Entity.actNormal.vy=0.70701656095556875137
-Entity.actNormal.vz=-0.01129524389115098282
+Entity.actNormal.vz=-0.01129524389115098455
 Entity.actVisible=1
 AddEntity
 
@@ -49136,9 +49136,9 @@ Entity.type=3010
 Entity.construction=0
 Entity.point[0].v=8016019b
 Entity.actNormal.w=-0.70701656095556875137
-Entity.actNormal.vx=0.01129524389115098455
+Entity.actNormal.vx=0.01129524389115098282
 Entity.actNormal.vy=0.70701656095556875137
-Entity.actNormal.vz=-0.01129524389115098282
+Entity.actNormal.vz=-0.01129524389115098455
 Entity.actVisible=1
 AddEntity
 
@@ -49172,9 +49172,9 @@ Entity.type=3010
 Entity.construction=0
 Entity.point[0].v=8016019f
 Entity.actNormal.w=-0.70701656095556875137
-Entity.actNormal.vx=0.01129524389115098455
+Entity.actNormal.vx=0.01129524389115098282
 Entity.actNormal.vy=0.70701656095556875137
-Entity.actNormal.vz=-0.01129524389115098282
+Entity.actNormal.vz=-0.01129524389115098455
 Entity.actVisible=1
 AddEntity
 
@@ -49198,9 +49198,9 @@ Entity.type=3010
 Entity.construction=0
 Entity.point[0].v=801601a4
 Entity.actNormal.w=-0.70701656095556875137
-Entity.actNormal.vx=0.01129524389115098455
+Entity.actNormal.vx=0.01129524389115098282
 Entity.actNormal.vy=0.70701656095556875137
-Entity.actNormal.vz=-0.01129524389115098282
+Entity.actNormal.vz=-0.01129524389115098455
 Entity.actVisible=1
 AddEntity
 
@@ -49218,9 +49218,9 @@ Entity.type=3010
 Entity.construction=0
 Entity.point[0].v=801601a6
 Entity.actNormal.w=-0.70701656095556875137
-Entity.actNormal.vx=0.01129524389115098455
+Entity.actNormal.vx=0.01129524389115098282
 Entity.actNormal.vy=0.70701656095556875137
-Entity.actNormal.vz=-0.01129524389115098282
+Entity.actNormal.vz=-0.01129524389115098455
 Entity.actVisible=1
 AddEntity
 
@@ -49248,8 +49248,8 @@ Entity.actPoint.x=511.28427124746190202131
 Entity.actPoint.y=255.78427124746190202131
 Entity.actPoint.z=86.00000000000000000000
 Entity.actNormal.vx=-1.00000000000000000000
-Entity.actNormal.vy=0.00000000000000000347
-Entity.actNormal.vz=0.00000000000000000615
+Entity.actNormal.vy=-0.00000000000000000347
+Entity.actNormal.vz=0.00000000000000000618
 Entity.actVisible=1
 AddEntity
 
@@ -49260,8 +49260,8 @@ Entity.actPoint.x=508.78427124746190202131
 Entity.actPoint.y=255.78427124746190202131
 Entity.actPoint.z=86.00000000000000000000
 Entity.actNormal.vx=-1.00000000000000000000
-Entity.actNormal.vy=0.00000000000000000347
-Entity.actNormal.vz=0.00000000000000000615
+Entity.actNormal.vy=-0.00000000000000000347
+Entity.actNormal.vz=0.00000000000000000618
 Entity.actVisible=1
 AddEntity
 
@@ -49288,9 +49288,9 @@ Entity.type=3010
 Entity.construction=0
 Entity.point[0].v=801601ab
 Entity.actNormal.w=-0.70701656095556875137
-Entity.actNormal.vx=0.01129524389115098455
+Entity.actNormal.vx=0.01129524389115098282
 Entity.actNormal.vy=0.70701656095556875137
-Entity.actNormal.vz=-0.01129524389115098282
+Entity.actNormal.vz=-0.01129524389115098455
 Entity.actVisible=1
 AddEntity
 
@@ -49324,9 +49324,9 @@ Entity.type=3010
 Entity.construction=0
 Entity.point[0].v=801601af
 Entity.actNormal.w=-0.70701656095556875137
-Entity.actNormal.vx=0.01129524389115098455
+Entity.actNormal.vx=0.01129524389115098282
 Entity.actNormal.vy=0.70701656095556875137
-Entity.actNormal.vz=-0.01129524389115098282
+Entity.actNormal.vz=-0.01129524389115098455
 Entity.actVisible=1
 AddEntity
 
@@ -49350,9 +49350,9 @@ Entity.type=3010
 Entity.construction=0
 Entity.point[0].v=801601b4
 Entity.actNormal.w=-0.70701656095556875137
-Entity.actNormal.vx=0.01129524389115098455
+Entity.actNormal.vx=0.01129524389115098282
 Entity.actNormal.vy=0.70701656095556875137
-Entity.actNormal.vz=-0.01129524389115098282
+Entity.actNormal.vz=-0.01129524389115098455
 Entity.actVisible=1
 AddEntity
 
@@ -49370,9 +49370,9 @@ Entity.type=3010
 Entity.construction=0
 Entity.point[0].v=801601b6
 Entity.actNormal.w=-0.70701656095556875137
-Entity.actNormal.vx=0.01129524389115098455
+Entity.actNormal.vx=0.01129524389115098282
 Entity.actNormal.vy=0.70701656095556875137
-Entity.actNormal.vz=-0.01129524389115098282
+Entity.actNormal.vz=-0.01129524389115098455
 Entity.actVisible=1
 AddEntity
 
@@ -49400,8 +49400,8 @@ Entity.actPoint.x=498.98427124746189065263
 Entity.actPoint.y=255.78427124746190202131
 Entity.actPoint.z=86.00000000000000000000
 Entity.actNormal.vx=-1.00000000000000000000
-Entity.actNormal.vy=0.00000000000000000347
-Entity.actNormal.vz=0.00000000000000000615
+Entity.actNormal.vy=-0.00000000000000000347
+Entity.actNormal.vz=0.00000000000000000618
 Entity.actVisible=1
 AddEntity
 
@@ -49412,8 +49412,8 @@ Entity.actPoint.x=508.78427124746190202131
 Entity.actPoint.y=255.78427124746190202131
 Entity.actPoint.z=86.00000000000000000000
 Entity.actNormal.vx=-1.00000000000000000000
-Entity.actNormal.vy=0.00000000000000000347
-Entity.actNormal.vz=0.00000000000000000615
+Entity.actNormal.vy=-0.00000000000000000347
+Entity.actNormal.vz=0.00000000000000000618
 Entity.actVisible=1
 AddEntity
 
@@ -49572,8 +49572,8 @@ Entity.actPoint.x=511.28427124746190202131
 Entity.actPoint.y=255.78427124746190202131
 Entity.actPoint.z=86.00000000000000000000
 Entity.actNormal.vx=-1.00000000000000000000
-Entity.actNormal.vy=0.00000000000000000347
-Entity.actNormal.vz=0.00000000000000000615
+Entity.actNormal.vy=-0.00000000000000000347
+Entity.actNormal.vz=0.00000000000000000618
 Entity.actVisible=1
 AddEntity
 
@@ -49584,8 +49584,8 @@ Entity.actPoint.x=508.78427124746190202131
 Entity.actPoint.y=255.78427124746190202131
 Entity.actPoint.z=86.00000000000000000000
 Entity.actNormal.vx=-1.00000000000000000000
-Entity.actNormal.vy=0.00000000000000000347
-Entity.actNormal.vz=0.00000000000000000615
+Entity.actNormal.vy=-0.00000000000000000347
+Entity.actNormal.vz=0.00000000000000000618
 Entity.actVisible=1
 AddEntity
 
@@ -89182,77 +89182,77 @@ Triangle 00000000 00646464 -239.71572875253806955698 251.44358876156746873676 81
 Triangle 00000000 00646464 -237.21572875253806955698 251.44358876195002494569 81.16176937714099892673  -239.71572875253812640040 249.87900954603387049247 83.28377389791518226048  -237.21572875253809797869 249.87900954603387049247 83.28377389791519647133
 Triangle 00000000 00646464 -239.71572875253812640040 249.87900954603387049247 83.28377389791518226048  -239.71572875253801271356 249.28594180508241606731 85.85264173486304173366  -237.21572875253809797869 249.87900954603387049247 83.28377389791519647133
 Triangle 00000000 00646464 -237.21572875253809797869 249.87900954603387049247 83.28377389791519647133  -239.71572875253801271356 249.28594180508241606731 85.85264173486304173366  -237.21572875253804113527 249.28594180509401212475 85.85264173434930512485
-Triangle 8010035f 00646464 -452.41572875253802976658 261.41163662264443701133 83.91847197131608027121  -452.41572875253814345342 266.13413067230908382044 87.76929643810792924796  -452.41572875253814345342 261.78272919427371334677 86.13602301397250471382
-Triangle 8010035f 00646464 -452.41572875253814345342 261.78272919427371334677 86.13602301397250471382  -452.41572875253814345342 266.13413067230908382044 87.76929643810792924796  -452.41572875253802976658 261.23528204878016367729 88.50728563269369431055
-Triangle 8010035f 00646464 -452.41572875253814345342 266.13413067230908382044 87.76929643810792924796  -452.41572875253802976658 259.42694529765867628157 95.84788940656945044338  -452.41572875253802976658 261.23528204878016367729 88.50728563269369431055
-Triangle 8010035f 00646464 -452.41572875253802976658 261.23528204878016367729 88.50728563269369431055  -452.41572875253802976658 259.42694529765867628157 95.84788940656945044338  -452.41572875253814345342 259.79105508024207438211 90.46605903648523394622
-Triangle 8010035f 00646464 -452.41572875253814345342 259.79105508024207438211 90.46605903648523394622  -452.41572875253802976658 259.42694529765867628157 95.84788940656945044338  -452.41572875253802976658 257.86579927614582175011 91.62736537518253499002
-Triangle 8010035f 00646464 -452.41572875253802976658 259.42694529765867628157 95.84788940656945044338  -452.41572875253802976658 249.07708587281152290416 94.07859296846152119542  -452.41572875253802976658 257.86579927614582175011 91.62736537518253499002
-Triangle 8010035f 00646464 -452.41572875253802976658 257.86579927614582175011 91.62736537518253499002  -452.41572875253802976658 249.07708587281152290416 94.07859296846152119542  -452.41572875253802976658 255.64824823348939730749 91.99845794681181132546
-Triangle 8010035f 00646464 -452.41572875253802976658 255.64824823348939730749 91.99845794681181132546  -452.41572875253802976658 249.07708587281152290416 94.07859296846152119542  -452.41572875253814345342 253.27698561476816507820 91.45101080131821902341
-Triangle 8010035f 00646464 -452.41572875253814345342 253.27698561476816507820 91.45101080131821902341  -452.41572875253802976658 249.07708587281152290416 94.07859296846152119542  -452.41572875253802976658 251.31821221097669649680 90.00678383278020078251
-Triangle 8010035f 00646464 -452.41572875253802976658 251.31821221097669649680 90.00678383278020078251  -452.41572875253802976658 249.07708587281152290416 94.07859296846152119542  -452.41572875253802976658 250.15690587227936703130 88.08152802868390551794
-Triangle 8010035f 00646464 -452.41572875253802976658 249.07708587281152290416 94.07859296846152119542  -452.41572875253802976658 245.43441182261469180048 84.23070356189208496289  -452.41572875253802976658 250.15690587227936703130 88.08152802868390551794
-Triangle 8010035f 00646464 -452.41572875253802976658 250.15690587227936703130 88.08152802868390551794  -452.41572875253802976658 245.43441182261469180048 84.23070356189208496289  -452.41572875253802976658 249.78581330065009069585 85.86397698602748107533
-Triangle 8010035f 00646464 -452.41572875253802976658 249.78581330065009069585 85.86397698602748107533  -452.41572875253802976658 245.43441182261469180048 84.23070356189208496289  -452.41572875253802976658 250.33326044614369720875 83.49271436730630568945
-Triangle 8010035f 00646464 -452.41572875253802976658 250.33326044614369720875 83.49271436730630568945  -452.41572875253802976658 245.43441182261469180048 84.23070356189208496289  -452.41572875253802976658 251.77748741468170123881 81.53394096351478026463
-Triangle 8010035f 00646464 -452.41572875253802976658 245.43441182261469180048 84.23070356189208496289  -452.41572875253802976658 252.14159719726507091764 76.15211059343056376747  -452.41572875253802976658 251.77748741468170123881 81.53394096351478026463
-Triangle 8010035f 00646464 -452.41572875253802976658 251.77748741468170123881 81.53394096351478026463  -452.41572875253802976658 252.14159719726507091764 76.15211059343056376747  -452.41572875253802976658 253.70274321877798229252 80.37263462481746500998
-Triangle 8010035f 00646464 -452.41572875253802976658 252.14159719726507091764 76.15211059343056376747  -452.41572875253802976658 262.49145662211230956018 77.92140703153846459372  -452.41572875253802976658 253.70274321877798229252 80.37263462481746500998
-Triangle 8010035f 00646464 -452.41572875253802976658 253.70274321877798229252 80.37263462481746500998  -452.41572875253802976658 262.49145662211230956018 77.92140703153846459372  -452.41572875253802976658 255.92029426143437831342 80.00154205318820288539
-Triangle 8010035f 00646464 -452.41572875253802976658 255.92029426143437831342 80.00154205318820288539  -452.41572875253802976658 262.49145662211230956018 77.92140703153846459372  -452.41572875253802976658 258.29155688015561054272 80.54898919868179518744
-Triangle 8010035f 00646464 -452.41572875253802976658 258.29155688015561054272 80.54898919868179518744  -452.41572875253802976658 262.49145662211230956018 77.92140703153846459372  -452.41572875253814345342 260.25033028394710754583 81.99321616721979921749
-Triangle 8010035f 00646464 -452.41572875253802976658 262.49145662211230956018 77.92140703153846459372  -452.41572875253814345342 266.13413067230908382044 87.76929643810792924796  -452.41572875253814345342 260.25033028394710754583 81.99321616721979921749
-Triangle 8010035f 00646464 -452.41572875253814345342 260.25033028394710754583 81.99321616721979921749  -452.41572875253814345342 266.13413067230908382044 87.76929643810792924796  -452.41572875253802976658 261.41163662264443701133 83.91847197131608027121
-Triangle 8010032a 00646464 -452.41572875253802976658 266.13413067230908382044 87.76929643810791503711  -452.41572875253802976658 262.49145662211230956018 77.92140703153846459372  -462.21572875253809797869 266.13413067230908382044 87.76929643810791503711
-Triangle 8010032a 00646464 -462.21572875253809797869 266.13413067230908382044 87.76929643810791503711  -452.41572875253802976658 262.49145662211230956018 77.92140703153846459372  -462.21572875253809797869 262.49145662211230956018 77.92140703153846459372
-Triangle 80100333 00646464 -452.41572875253802976658 262.49145662211230956018 77.92140703153846459372  -452.41572875253802976658 252.14159719726507091764 76.15211059343056376747  -462.21572875253809797869 262.49145662211230956018 77.92140703153846459372
-Triangle 80100333 00646464 -462.21572875253809797869 262.49145662211230956018 77.92140703153846459372  -452.41572875253802976658 252.14159719726507091764 76.15211059343056376747  -462.21572875253809797869 252.14159719726507091764 76.15211059343056376747
-Triangle 8010033c 00646464 -452.41572875253802976658 252.14159719726507091764 76.15211059343056376747  -452.41572875253802976658 245.43441182261469180048 84.23070356189208496289  -462.21572875253809797869 252.14159719726507091764 76.15211059343056376747
-Triangle 8010033c 00646464 -462.21572875253809797869 252.14159719726507091764 76.15211059343056376747  -452.41572875253802976658 245.43441182261469180048 84.23070356189208496289  -462.21572875253809797869 245.43441182261469180048 84.23070356189208496289
-Triangle 80100345 00646464 -452.41572875253802976658 245.43441182261469180048 84.23070356189208496289  -452.41572875253802976658 249.07708587281152290416 94.07859296846152119542  -462.21572875253809797869 245.43441182261469180048 84.23070356189208496289
-Triangle 80100345 00646464 -462.21572875253809797869 245.43441182261469180048 84.23070356189208496289  -452.41572875253802976658 249.07708587281152290416 94.07859296846152119542  -462.21572875253809797869 249.07708587281152290416 94.07859296846152119542
-Triangle 8010034e 00646464 -452.41572875253802976658 249.07708587281152290416 94.07859296846152119542  -452.41572875253802976658 259.42694529765873312499 95.84788940656943623253  -462.21572875253809797869 249.07708587281152290416 94.07859296846152119542
-Triangle 8010034e 00646464 -462.21572875253809797869 249.07708587281152290416 94.07859296846152119542  -452.41572875253802976658 259.42694529765873312499 95.84788940656943623253  -462.21572875253809797869 259.42694529765873312499 95.84788940656943623253
-Triangle 80100357 00646464 -452.41572875253802976658 259.42694529765873312499 95.84788940656943623253  -452.41572875253802976658 266.13413067230908382044 87.76929643810791503711  -462.21572875253809797869 259.42694529765873312499 95.84788940656943623253
-Triangle 80100357 00646464 -462.21572875253809797869 259.42694529765873312499 95.84788940656943623253  -452.41572875253802976658 266.13413067230908382044 87.76929643810791503711  -462.21572875253809797869 266.13413067230908382044 87.76929643810791503711
-Triangle 00000000 00646464 -462.21572875253809797869 253.70274321877798229252 80.37263462481746500998  -462.21572875253798429185 251.77748741432861834255 81.53394096383159705965  -452.41572875253802976658 253.70274321877798229252 80.37263462481746500998
-Triangle 00000000 00646464 -452.41572875253802976658 253.70274321877798229252 80.37263462481746500998  -462.21572875253798429185 251.77748741432861834255 81.53394096383159705965  -452.41572875253802976658 251.77748741468167281710 81.53394096351480868634
-Triangle 00000000 00646464 -452.41572875253802976658 250.15690587227936703130 88.08152802868390551794  -452.41572875253802976658 249.78581330066080568031 85.86397698555316537750  -462.21572875253809797869 250.15690587227936703130 88.08152802868390551794
+Triangle 8010035f 00646464 -452.41572875253808661000 261.41163662264443701133 83.91847197131608027121  -452.41572875253814345342 266.13413067230908382044 87.76929643810792924796  -452.41572875253814345342 261.78272919427371334677 86.13602301397250471382
+Triangle 8010035f 00646464 -452.41572875253814345342 261.78272919427371334677 86.13602301397250471382  -452.41572875253814345342 266.13413067230908382044 87.76929643810792924796  -452.41572875253808661000 261.23528204878016367729 88.50728563269369431055
+Triangle 8010035f 00646464 -452.41572875253814345342 266.13413067230908382044 87.76929643810792924796  -452.41572875253808661000 259.42694529765867628157 95.84788940656945044338  -452.41572875253808661000 261.23528204878016367729 88.50728563269369431055
+Triangle 8010035f 00646464 -452.41572875253808661000 261.23528204878016367729 88.50728563269369431055  -452.41572875253808661000 259.42694529765867628157 95.84788940656945044338  -452.41572875253814345342 259.79105508024207438211 90.46605903648523394622
+Triangle 8010035f 00646464 -452.41572875253814345342 259.79105508024207438211 90.46605903648523394622  -452.41572875253808661000 259.42694529765867628157 95.84788940656945044338  -452.41572875253808661000 257.86579927614582175011 91.62736537518253499002
+Triangle 8010035f 00646464 -452.41572875253808661000 259.42694529765867628157 95.84788940656945044338  -452.41572875253808661000 249.07708587281152290416 94.07859296846152119542  -452.41572875253808661000 257.86579927614582175011 91.62736537518253499002
+Triangle 8010035f 00646464 -452.41572875253808661000 257.86579927614582175011 91.62736537518253499002  -452.41572875253808661000 249.07708587281152290416 94.07859296846152119542  -452.41572875253808661000 255.64824823348939730749 91.99845794681181132546
+Triangle 8010035f 00646464 -452.41572875253808661000 255.64824823348939730749 91.99845794681181132546  -452.41572875253808661000 249.07708587281152290416 94.07859296846152119542  -452.41572875253814345342 253.27698561476816507820 91.45101080131821902341
+Triangle 8010035f 00646464 -452.41572875253814345342 253.27698561476816507820 91.45101080131821902341  -452.41572875253808661000 249.07708587281152290416 94.07859296846152119542  -452.41572875253808661000 251.31821221097669649680 90.00678383278020078251
+Triangle 8010035f 00646464 -452.41572875253808661000 251.31821221097669649680 90.00678383278020078251  -452.41572875253808661000 249.07708587281152290416 94.07859296846152119542  -452.41572875253808661000 250.15690587227936703130 88.08152802868390551794
+Triangle 8010035f 00646464 -452.41572875253808661000 249.07708587281152290416 94.07859296846152119542  -452.41572875253808661000 245.43441182261469180048 84.23070356189208496289  -452.41572875253808661000 250.15690587227936703130 88.08152802868390551794
+Triangle 8010035f 00646464 -452.41572875253808661000 250.15690587227936703130 88.08152802868390551794  -452.41572875253808661000 245.43441182261469180048 84.23070356189208496289  -452.41572875253808661000 249.78581330065009069585 85.86397698602748107533
+Triangle 8010035f 00646464 -452.41572875253808661000 249.78581330065009069585 85.86397698602748107533  -452.41572875253808661000 245.43441182261469180048 84.23070356189208496289  -452.41572875253808661000 250.33326044614369720875 83.49271436730630568945
+Triangle 8010035f 00646464 -452.41572875253808661000 250.33326044614369720875 83.49271436730630568945  -452.41572875253808661000 245.43441182261469180048 84.23070356189208496289  -452.41572875253808661000 251.77748741468170123881 81.53394096351478026463
+Triangle 8010035f 00646464 -452.41572875253808661000 245.43441182261469180048 84.23070356189208496289  -452.41572875253808661000 252.14159719726507091764 76.15211059343056376747  -452.41572875253808661000 251.77748741468170123881 81.53394096351478026463
+Triangle 8010035f 00646464 -452.41572875253808661000 251.77748741468170123881 81.53394096351478026463  -452.41572875253808661000 252.14159719726507091764 76.15211059343056376747  -452.41572875253808661000 253.70274321877798229252 80.37263462481746500998
+Triangle 8010035f 00646464 -452.41572875253808661000 252.14159719726507091764 76.15211059343056376747  -452.41572875253808661000 262.49145662211230956018 77.92140703153846459372  -452.41572875253808661000 253.70274321877798229252 80.37263462481746500998
+Triangle 8010035f 00646464 -452.41572875253808661000 253.70274321877798229252 80.37263462481746500998  -452.41572875253808661000 262.49145662211230956018 77.92140703153846459372  -452.41572875253808661000 255.92029426143437831342 80.00154205318820288539
+Triangle 8010035f 00646464 -452.41572875253808661000 255.92029426143437831342 80.00154205318820288539  -452.41572875253808661000 262.49145662211230956018 77.92140703153846459372  -452.41572875253808661000 258.29155688015561054272 80.54898919868179518744
+Triangle 8010035f 00646464 -452.41572875253808661000 258.29155688015561054272 80.54898919868179518744  -452.41572875253808661000 262.49145662211230956018 77.92140703153846459372  -452.41572875253814345342 260.25033028394710754583 81.99321616721979921749
+Triangle 8010035f 00646464 -452.41572875253808661000 262.49145662211230956018 77.92140703153846459372  -452.41572875253814345342 266.13413067230908382044 87.76929643810792924796  -452.41572875253814345342 260.25033028394710754583 81.99321616721979921749
+Triangle 8010035f 00646464 -452.41572875253814345342 260.25033028394710754583 81.99321616721979921749  -452.41572875253814345342 266.13413067230908382044 87.76929643810792924796  -452.41572875253808661000 261.41163662264443701133 83.91847197131608027121
+Triangle 8010032a 00646464 -452.41572875253808661000 266.13413067230908382044 87.76929643810791503711  -452.41572875253808661000 262.49145662211230956018 77.92140703153846459372  -462.21572875253809797869 266.13413067230908382044 87.76929643810791503711
+Triangle 8010032a 00646464 -462.21572875253809797869 266.13413067230908382044 87.76929643810791503711  -452.41572875253808661000 262.49145662211230956018 77.92140703153846459372  -462.21572875253809797869 262.49145662211230956018 77.92140703153846459372
+Triangle 80100333 00646464 -452.41572875253808661000 262.49145662211230956018 77.92140703153846459372  -452.41572875253808661000 252.14159719726507091764 76.15211059343056376747  -462.21572875253809797869 262.49145662211230956018 77.92140703153846459372
+Triangle 80100333 00646464 -462.21572875253809797869 262.49145662211230956018 77.92140703153846459372  -452.41572875253808661000 252.14159719726507091764 76.15211059343056376747  -462.21572875253809797869 252.14159719726507091764 76.15211059343056376747
+Triangle 8010033c 00646464 -452.41572875253808661000 252.14159719726507091764 76.15211059343056376747  -452.41572875253808661000 245.43441182261469180048 84.23070356189208496289  -462.21572875253809797869 252.14159719726507091764 76.15211059343056376747
+Triangle 8010033c 00646464 -462.21572875253809797869 252.14159719726507091764 76.15211059343056376747  -452.41572875253808661000 245.43441182261469180048 84.23070356189208496289  -462.21572875253809797869 245.43441182261469180048 84.23070356189208496289
+Triangle 80100345 00646464 -452.41572875253808661000 245.43441182261469180048 84.23070356189208496289  -452.41572875253808661000 249.07708587281152290416 94.07859296846152119542  -462.21572875253809797869 245.43441182261469180048 84.23070356189208496289
+Triangle 80100345 00646464 -462.21572875253809797869 245.43441182261469180048 84.23070356189208496289  -452.41572875253808661000 249.07708587281152290416 94.07859296846152119542  -462.21572875253809797869 249.07708587281152290416 94.07859296846152119542
+Triangle 8010034e 00646464 -452.41572875253808661000 249.07708587281152290416 94.07859296846152119542  -452.41572875253808661000 259.42694529765873312499 95.84788940656943623253  -462.21572875253809797869 249.07708587281152290416 94.07859296846152119542
+Triangle 8010034e 00646464 -462.21572875253809797869 249.07708587281152290416 94.07859296846152119542  -452.41572875253808661000 259.42694529765873312499 95.84788940656943623253  -462.21572875253809797869 259.42694529765873312499 95.84788940656943623253
+Triangle 80100357 00646464 -452.41572875253808661000 259.42694529765873312499 95.84788940656943623253  -452.41572875253808661000 266.13413067230908382044 87.76929643810791503711  -462.21572875253809797869 259.42694529765873312499 95.84788940656943623253
+Triangle 80100357 00646464 -462.21572875253809797869 259.42694529765873312499 95.84788940656943623253  -452.41572875253808661000 266.13413067230908382044 87.76929643810791503711  -462.21572875253809797869 266.13413067230908382044 87.76929643810791503711
+Triangle 00000000 00646464 -462.21572875253809797869 253.70274321877798229252 80.37263462481746500998  -462.21572875253804113527 251.77748741432861834255 81.53394096383159705965  -452.41572875253808661000 253.70274321877798229252 80.37263462481746500998
+Triangle 00000000 00646464 -452.41572875253808661000 253.70274321877798229252 80.37263462481746500998  -462.21572875253804113527 251.77748741432861834255 81.53394096383159705965  -452.41572875253808661000 251.77748741468167281710 81.53394096351480868634
+Triangle 00000000 00646464 -452.41572875253808661000 250.15690587227936703130 88.08152802868390551794  -452.41572875253802976658 249.78581330066080568031 85.86397698555316537750  -462.21572875253809797869 250.15690587227936703130 88.08152802868390551794
 Triangle 00000000 00646464 -462.21572875253809797869 250.15690587227936703130 88.08152802868390551794  -452.41572875253802976658 249.78581330066080568031 85.86397698555316537750  -462.21572875253809797869 249.78581330065009069585 85.86397698602745265362
-Triangle 00000000 00646464 -462.21572875253798429185 251.77748741432861834255 81.53394096383159705965  -462.21572875253809797869 250.33326044614369720875 83.49271436730631990031  -452.41572875253802976658 251.77748741468167281710 81.53394096351480868634
-Triangle 00000000 00646464 -452.41572875253802976658 251.77748741468167281710 81.53394096351480868634  -462.21572875253809797869 250.33326044614369720875 83.49271436730631990031  -452.41572875253802976658 250.33326044614372563046 83.49271436730627726774
+Triangle 00000000 00646464 -462.21572875253804113527 251.77748741432861834255 81.53394096383159705965  -462.21572875253809797869 250.33326044614369720875 83.49271436730631990031  -452.41572875253808661000 251.77748741468167281710 81.53394096351480868634
+Triangle 00000000 00646464 -452.41572875253808661000 251.77748741468167281710 81.53394096351480868634  -462.21572875253809797869 250.33326044614369720875 83.49271436730631990031  -452.41572875253802976658 250.33326044614372563046 83.49271436730627726774
 Triangle 00000000 00646464 -462.21572875253809797869 250.33326044614369720875 83.49271436730631990031  -462.21572875253809797869 249.78581330065009069585 85.86397698602745265362  -452.41572875253802976658 250.33326044614372563046 83.49271436730627726774
 Triangle 00000000 00646464 -452.41572875253802976658 250.33326044614372563046 83.49271436730627726774  -462.21572875253809797869 249.78581330065009069585 85.86397698602745265362  -452.41572875253802976658 249.78581330066080568031 85.86397698555316537750
-Triangle 00000000 00646464 -462.21572875253809797869 250.15690587227936703130 88.08152802868390551794  -462.21572875253809797869 251.31821221129351329182 90.00678383313335473304  -452.41572875253802976658 250.15690587227936703130 88.08152802868390551794
-Triangle 00000000 00646464 -452.41572875253802976658 250.15690587227936703130 88.08152802868390551794  -462.21572875253809797869 251.31821221129351329182 90.00678383313335473304  -452.41572875253814345342 251.31821221097666807509 90.00678383278020078251
-Triangle 00000000 00646464 -452.41572875253802976658 257.86579927614582175011 91.62736537518253499002  -452.41572875253802976658 255.64824823301506739881 91.99845794680106791930  -462.21572875253809797869 257.86579927614582175011 91.62736537518253499002
-Triangle 00000000 00646464 -462.21572875253809797869 257.86579927614582175011 91.62736537518253499002  -452.41572875253802976658 255.64824823301506739881 91.99845794680106791930  -462.21572875253809797869 255.64824823348948257262 91.99845794681179711461
-Triangle 00000000 00646464 -462.21572875253809797869 251.31821221129351329182 90.00678383313335473304  -462.21572875253798429185 253.27698561476825034333 91.45101080131817639085  -452.41572875253814345342 251.31821221097666807509 90.00678383278020078251
-Triangle 00000000 00646464 -452.41572875253814345342 251.31821221097666807509 90.00678383278020078251  -462.21572875253798429185 253.27698561476825034333 91.45101080131817639085  -452.41572875253802976658 253.27698561476822192162 91.45101080131817639085
-Triangle 00000000 00646464 -462.21572875253798429185 253.27698561476825034333 91.45101080131817639085  -462.21572875253809797869 255.64824823348948257262 91.99845794681179711461  -452.41572875253802976658 253.27698561476822192162 91.45101080131817639085
-Triangle 00000000 00646464 -452.41572875253802976658 253.27698561476822192162 91.45101080131817639085  -462.21572875253809797869 255.64824823348948257262 91.99845794681179711461  -452.41572875253802976658 255.64824823301506739881 91.99845794680106791930
-Triangle 00000000 00646464 -462.21572875253809797869 257.86579927614582175011 91.62736537518253499002  -462.21572875253809797869 259.79105508059518570008 90.46605903616843136206  -452.41572875253802976658 257.86579927614582175011 91.62736537518253499002
-Triangle 00000000 00646464 -452.41572875253802976658 257.86579927614582175011 91.62736537518253499002  -462.21572875253809797869 259.79105508059518570008 90.46605903616843136206  -452.41572875253802976658 259.79105508024207438211 90.46605903648523394622
-Triangle 00000000 00646464 -452.41572875253802976658 261.41163662264443701133 83.91847197131609448206  -452.41572875253814345342 261.78272919426296994061 86.13602301444682041165  -462.21572875253809797869 261.41163662264443701133 83.91847197131609448206
-Triangle 00000000 00646464 -462.21572875253809797869 261.41163662264443701133 83.91847197131609448206  -452.41572875253814345342 261.78272919426296994061 86.13602301444682041165  -462.21572875253798429185 261.78272919427365650336 86.13602301397253313553
-Triangle 00000000 00646464 -462.21572875253809797869 259.79105508059518570008 90.46605903616843136206  -462.21572875253798429185 261.23528204878016367729 88.50728563269365167798  -452.41572875253802976658 259.79105508024207438211 90.46605903648523394622
-Triangle 00000000 00646464 -452.41572875253802976658 259.79105508024207438211 90.46605903648523394622  -462.21572875253798429185 261.23528204878016367729 88.50728563269365167798  -452.41572875253814345342 261.23528204878004999046 88.50728563269372273226
-Triangle 00000000 00646464 -462.21572875253798429185 261.23528204878016367729 88.50728563269365167798  -462.21572875253798429185 261.78272919427365650336 86.13602301397253313553  -452.41572875253814345342 261.23528204878004999046 88.50728563269372273226
-Triangle 00000000 00646464 -452.41572875253814345342 261.23528204878004999046 88.50728563269372273226  -462.21572875253798429185 261.78272919427365650336 86.13602301397253313553  -452.41572875253814345342 261.78272919426296994061 86.13602301444682041165
-Triangle 00000000 00646464 -462.21572875253809797869 261.41163662264443701133 83.91847197131609448206  -462.21572875253809797869 260.25033028363026232910 81.99321616686663105611  -452.41572875253802976658 261.41163662264443701133 83.91847197131609448206
-Triangle 00000000 00646464 -452.41572875253802976658 261.41163662264443701133 83.91847197131609448206  -462.21572875253809797869 260.25033028363026232910 81.99321616686663105611  -452.41572875253802976658 260.25033028394705070241 81.99321616721977079578
-Triangle 00000000 00646464 -452.41572875253802976658 253.70274321877798229252 80.37263462481746500998  -452.41572875253814345342 255.92029426190867980040 80.00154205319896050241  -462.21572875253809797869 253.70274321877798229252 80.37263462481746500998
-Triangle 00000000 00646464 -462.21572875253809797869 253.70274321877798229252 80.37263462481746500998  -452.41572875253814345342 255.92029426190867980040 80.00154205319896050241  -462.21572875253798429185 255.92029426143440673513 80.00154205318818867454
-Triangle 00000000 00646464 -462.21572875253809797869 260.25033028363026232910 81.99321616686663105611  -462.21572875253809797869 258.29155688015561054272 80.54898919868179518744  -452.41572875253802976658 260.25033028394705070241 81.99321616721977079578
-Triangle 00000000 00646464 -452.41572875253802976658 260.25033028394705070241 81.99321616721977079578  -462.21572875253809797869 258.29155688015561054272 80.54898919868179518744  -452.41572875253814345342 258.29155688015555369930 80.54898919868180939829
-Triangle 00000000 00646464 -462.21572875253809797869 258.29155688015561054272 80.54898919868179518744  -462.21572875253798429185 255.92029426143440673513 80.00154205318818867454  -452.41572875253814345342 258.29155688015555369930 80.54898919868180939829
-Triangle 00000000 00646464 -452.41572875253814345342 258.29155688015555369930 80.54898919868180939829  -462.21572875253798429185 255.92029426143440673513 80.00154205318818867454  -452.41572875253814345342 255.92029426190867980040 80.00154205319896050241
+Triangle 00000000 00646464 -462.21572875253809797869 250.15690587227936703130 88.08152802868390551794  -462.21572875253809797869 251.31821221129351329182 90.00678383313335473304  -452.41572875253808661000 250.15690587227936703130 88.08152802868390551794
+Triangle 00000000 00646464 -452.41572875253808661000 250.15690587227936703130 88.08152802868390551794  -462.21572875253809797869 251.31821221129351329182 90.00678383313335473304  -452.41572875253814345342 251.31821221097666807509 90.00678383278020078251
+Triangle 00000000 00646464 -452.41572875253808661000 257.86579927614582175011 91.62736537518253499002  -452.41572875253802976658 255.64824823301506739881 91.99845794680106791930  -462.21572875253809797869 257.86579927614582175011 91.62736537518253499002
+Triangle 00000000 00646464 -462.21572875253809797869 257.86579927614582175011 91.62736537518253499002  -452.41572875253802976658 255.64824823301506739881 91.99845794680106791930  -462.21572875253815482210 255.64824823348948257262 91.99845794681179711461
+Triangle 00000000 00646464 -462.21572875253809797869 251.31821221129351329182 90.00678383313335473304  -462.21572875253804113527 253.27698561476825034333 91.45101080131817639085  -452.41572875253814345342 251.31821221097666807509 90.00678383278020078251
+Triangle 00000000 00646464 -452.41572875253814345342 251.31821221097666807509 90.00678383278020078251  -462.21572875253804113527 253.27698561476825034333 91.45101080131817639085  -452.41572875253802976658 253.27698561476822192162 91.45101080131817639085
+Triangle 00000000 00646464 -462.21572875253804113527 253.27698561476825034333 91.45101080131817639085  -462.21572875253815482210 255.64824823348948257262 91.99845794681179711461  -452.41572875253802976658 253.27698561476822192162 91.45101080131817639085
+Triangle 00000000 00646464 -452.41572875253802976658 253.27698561476822192162 91.45101080131817639085  -462.21572875253815482210 255.64824823348948257262 91.99845794681179711461  -452.41572875253802976658 255.64824823301506739881 91.99845794680106791930
+Triangle 00000000 00646464 -462.21572875253809797869 257.86579927614582175011 91.62736537518253499002  -462.21572875253815482210 259.79105508059518570008 90.46605903616843136206  -452.41572875253808661000 257.86579927614582175011 91.62736537518253499002
+Triangle 00000000 00646464 -452.41572875253808661000 257.86579927614582175011 91.62736537518253499002  -462.21572875253815482210 259.79105508059518570008 90.46605903616843136206  -452.41572875253808661000 259.79105508024207438211 90.46605903648523394622
+Triangle 00000000 00646464 -452.41572875253808661000 261.41163662264443701133 83.91847197131609448206  -452.41572875253814345342 261.78272919426296994061 86.13602301444682041165  -462.21572875253809797869 261.41163662264443701133 83.91847197131609448206
+Triangle 00000000 00646464 -462.21572875253809797869 261.41163662264443701133 83.91847197131609448206  -452.41572875253814345342 261.78272919426296994061 86.13602301444682041165  -462.21572875253804113527 261.78272919427365650336 86.13602301397253313553
+Triangle 00000000 00646464 -462.21572875253815482210 259.79105508059518570008 90.46605903616843136206  -462.21572875253804113527 261.23528204878016367729 88.50728563269365167798  -452.41572875253808661000 259.79105508024207438211 90.46605903648523394622
+Triangle 00000000 00646464 -452.41572875253808661000 259.79105508024207438211 90.46605903648523394622  -462.21572875253804113527 261.23528204878016367729 88.50728563269365167798  -452.41572875253814345342 261.23528204878004999046 88.50728563269372273226
+Triangle 00000000 00646464 -462.21572875253804113527 261.23528204878016367729 88.50728563269365167798  -462.21572875253804113527 261.78272919427365650336 86.13602301397253313553  -452.41572875253814345342 261.23528204878004999046 88.50728563269372273226
+Triangle 00000000 00646464 -452.41572875253814345342 261.23528204878004999046 88.50728563269372273226  -462.21572875253804113527 261.78272919427365650336 86.13602301397253313553  -452.41572875253814345342 261.78272919426296994061 86.13602301444682041165
+Triangle 00000000 00646464 -462.21572875253809797869 261.41163662264443701133 83.91847197131609448206  -462.21572875253809797869 260.25033028363026232910 81.99321616686663105611  -452.41572875253808661000 261.41163662264443701133 83.91847197131609448206
+Triangle 00000000 00646464 -452.41572875253808661000 261.41163662264443701133 83.91847197131609448206  -462.21572875253809797869 260.25033028363026232910 81.99321616686663105611  -452.41572875253808661000 260.25033028394705070241 81.99321616721977079578
+Triangle 00000000 00646464 -452.41572875253808661000 253.70274321877798229252 80.37263462481746500998  -452.41572875253814345342 255.92029426190867980040 80.00154205319896050241  -462.21572875253809797869 253.70274321877798229252 80.37263462481746500998
+Triangle 00000000 00646464 -462.21572875253809797869 253.70274321877798229252 80.37263462481746500998  -452.41572875253814345342 255.92029426190867980040 80.00154205319896050241  -462.21572875253804113527 255.92029426143440673513 80.00154205318818867454
+Triangle 00000000 00646464 -462.21572875253809797869 260.25033028363026232910 81.99321616686663105611  -462.21572875253809797869 258.29155688015561054272 80.54898919868179518744  -452.41572875253808661000 260.25033028394705070241 81.99321616721977079578
+Triangle 00000000 00646464 -452.41572875253808661000 260.25033028394705070241 81.99321616721977079578  -462.21572875253809797869 258.29155688015561054272 80.54898919868179518744  -452.41572875253814345342 258.29155688015555369930 80.54898919868180939829
+Triangle 00000000 00646464 -462.21572875253809797869 258.29155688015561054272 80.54898919868179518744  -462.21572875253804113527 255.92029426143440673513 80.00154205318818867454  -452.41572875253814345342 258.29155688015555369930 80.54898919868180939829
+Triangle 00000000 00646464 -452.41572875253814345342 258.29155688015555369930 80.54898919868180939829  -462.21572875253804113527 255.92029426143440673513 80.00154205318818867454  -452.41572875253814345342 255.92029426190867980040 80.00154205319896050241
 Triangle 80100374 00646464 -462.21572875253809797869 257.81283470453746531348 97.72582322485790484734  -462.21572875253809797869 255.51449226974975204030 97.89694159451008204087  -462.21572875253809797869 259.91263517101833713241 97.16094132744534306312
 Triangle 80100374 00646464 -462.21572875253809797869 259.91263517101833713241 97.16094132744534306312  -462.21572875253809797869 255.51449226974975204030 97.89694159451008204087  -462.21572875253809797869 261.87459260800704896610 96.22340382286093074526
 Triangle 80100374 00646464 -462.21572875253809797869 255.51449226974975204030 97.89694159451008204087  -462.21572875253809797869 253.13231736881817823814 97.60073879653990047700  -462.21572875253809797869 261.87459260800704896610 96.22340382286093074526
 Triangle 80100374 00646464 -462.21572875253809797869 261.87459260800704896610 96.22340382286093074526  -462.21572875253809797869 253.13231736881817823814 97.60073879653990047700  -462.21572875253821166552 263.73105918247591716863 94.85768375569567467664
-Triangle 80100374 00646464 -462.21572875253809797869 265.34706927149306920910 93.08257678755308006657  -462.21572875253821166552 263.73105918247591716863 94.85768375569567467664  -462.21572875253809797869 266.59544267007635198752 90.97278317150914972444
+Triangle 80100374 00646464 -462.21572875253815482210 265.34706927149306920910 93.08257678755308006657  -462.21572875253821166552 263.73105918247591716863 94.85768375569567467664  -462.21572875253809797869 266.59544267007635198752 90.97278317150914972444
 Triangle 80100374 00646464 -462.21572875253809797869 266.59544267007635198752 90.97278317150914972444  -462.21572875253821166552 263.73105918247591716863 94.85768375569567467664  -462.21572875253809797869 267.38501004400177407661 88.65195387864369536146
 Triangle 80100374 00646464 -462.21572875253809797869 267.38501004400177407661 88.65195387864369536146  -462.21572875253821166552 263.73105918247591716863 94.85768375569567467664  -462.21572875253809797869 267.68121284197201248389 86.26977897771216419187
 Triangle 80100374 00646464 -462.21572875253809797869 267.68121284197201248389 86.26977897771216419187  -462.21572875253821166552 263.73105918247591716863 94.85768375569567467664  -462.21572875253809797869 267.51009447231979265780 83.97143654292449355125
@@ -89260,9 +89260,9 @@ Triangle 80100374 00646464 -462.21572875253809797869 266.94521257490725929529 81
 Triangle 80100374 00646464 -462.21572875253809797869 266.00767507032281855572 79.90967863945486726607  -462.21572875253809797869 267.51009447231979265780 83.97143654292449355125  -462.21572875253809797869 264.64195500315759090881 78.05321206498598485268
 Triangle 80100374 00646464 -462.21572875253809797869 264.64195500315759090881 78.05321206498598485268  -462.21572875253809797869 267.51009447231979265780 83.97143654292449355125  -462.21572875253809797869 262.86684803501492524447 76.43720197596884702307
 Triangle 80100374 00646464 -462.21572875253809797869 262.86684803501492524447 76.43720197596884702307  -462.21572875253809797869 267.51009447231979265780 83.97143654292449355125  -462.21572875253809797869 262.49145662211225271676 77.92140703153847880458
-Triangle 80100374 00646464 -462.21572875253809797869 262.49145662211225271676 77.92140703153847880458  -462.21572875253809797869 267.51009447231979265780 83.97143654292449355125  -462.21572875253809797869 266.13413067230908382044 87.76929643810792924796
-Triangle 80100374 00646464 -462.21572875253809797869 267.51009447231979265780 83.97143654292449355125  -462.21572875253821166552 263.73105918247591716863 94.85768375569567467664  -462.21572875253809797869 266.13413067230908382044 87.76929643810792924796
-Triangle 80100374 00646464 -462.21572875253809797869 266.13413067230908382044 87.76929643810792924796  -462.21572875253821166552 263.73105918247591716863 94.85768375569567467664  -462.21572875253809797869 259.42694529765867628157 95.84788940656942202168
+Triangle 80100374 00646464 -462.21572875253809797869 262.49145662211225271676 77.92140703153847880458  -462.21572875253809797869 267.51009447231979265780 83.97143654292449355125  -462.21572875253815482210 266.13413067230908382044 87.76929643810792924796
+Triangle 80100374 00646464 -462.21572875253809797869 267.51009447231979265780 83.97143654292449355125  -462.21572875253821166552 263.73105918247591716863 94.85768375569567467664  -462.21572875253815482210 266.13413067230908382044 87.76929643810792924796
+Triangle 80100374 00646464 -462.21572875253815482210 266.13413067230908382044 87.76929643810792924796  -462.21572875253821166552 263.73105918247591716863 94.85768375569567467664  -462.21572875253809797869 259.42694529765867628157 95.84788940656942202168
 Triangle 80100374 00646464 -462.21572875253821166552 263.73105918247591716863 94.85768375569567467664  -462.21572875253809797869 253.13231736881817823814 97.60073879653990047700  -462.21572875253809797869 259.42694529765867628157 95.84788940656942202168
 Triangle 80100374 00646464 -462.21572875253809797869 253.13231736881817823814 97.60073879653990047700  -462.21572875253809797869 250.81148807595275229687 96.81117142261442154449  -462.21572875253809797869 259.42694529765867628157 95.84788940656942202168
 Triangle 80100374 00646464 -462.21572875253809797869 259.42694529765867628157 95.84788940656942202168  -462.21572875253809797869 250.81148807595275229687 96.81117142261442154449  -462.21572875253809797869 249.07708587281149448245 94.07859296846152119542
@@ -89290,17 +89290,17 @@ Triangle 80100373 00646464 -464.71572875253809797869 266.00767507032281855572 79
 Triangle 80100373 00646464 -464.71572875253809797869 266.94521257490725929529 81.87163607644357909976  -464.71572875253809797869 264.64195500315759090881 78.05321206498594222012  -464.71572875253821166552 261.88058373724294369822 83.74501130225910117133
 Triangle 80100373 00646464 -464.71572875253809797869 264.64195500315759090881 78.05321206498594222012  -464.71572875253809797869 262.86684803501498208789 76.43720197596883281221  -464.71572875253821166552 261.88058373724294369822 83.74501130225910117133
 Triangle 80100373 00646464 -464.71572875253821166552 261.88058373724294369822 83.74501130225910117133  -464.71572875253809797869 262.86684803501498208789 76.43720197596883281221  -464.71572875253809797869 260.62250187032088888373 81.65931751448812292438
-Triangle 80100373 00646464 -464.71572875253809797869 262.86684803501498208789 76.43720197596883281221  -464.71572875253809797869 260.75705441897099490234 75.18882857738555003380  -464.71572875253809797869 260.62250187032088888373 81.65931751448812292438
-Triangle 80100373 00646464 -464.71572875253809797869 260.62250187032088888373 81.65931751448812292438  -464.71572875253809797869 260.75705441897099490234 75.18882857738555003380  -464.71572875253809797869 258.50049734954677660426 80.09473829857194004944
-Triangle 80100373 00646464 -464.71572875253809797869 260.75705441897099490234 75.18882857738555003380  -464.71572875253809797869 258.43622512610562580448 74.39926120346005689044  -464.71572875253809797869 258.50049734954677660426 80.09473829857194004944
+Triangle 80100373 00646464 -464.71572875253809797869 262.86684803501498208789 76.43720197596883281221  -464.71572875253815482210 260.75705441897099490234 75.18882857738555003380  -464.71572875253809797869 260.62250187032088888373 81.65931751448812292438
+Triangle 80100373 00646464 -464.71572875253809797869 260.62250187032088888373 81.65931751448812292438  -464.71572875253815482210 260.75705441897099490234 75.18882857738555003380  -464.71572875253809797869 258.50049734954677660426 80.09473829857194004944
+Triangle 80100373 00646464 -464.71572875253815482210 260.75705441897099490234 75.18882857738555003380  -464.71572875253809797869 258.43622512610562580448 74.39926120346005689044  -464.71572875253809797869 258.50049734954677660426 80.09473829857194004944
 Triangle 80100373 00646464 -464.71572875253809797869 258.50049734954677660426 80.09473829857194004944  -464.71572875253809797869 258.43622512610562580448 74.39926120346005689044  -464.71572875253809797869 255.93162951259876081167 79.50167055762051404599
 Triangle 80100373 00646464 -464.71572875253809797869 258.43622512610562580448 74.39926120346005689044  -464.71572875253809797869 256.05405022517402358062 74.10305840548990374828  -464.71572875253809797869 255.93162951259876081167 79.50167055762051404599
 Triangle 80100373 00646464 -464.71572875253809797869 255.93162951259876081167 79.50167055762051404599  -464.71572875253809797869 256.05405022517402358062 74.10305840548990374828  -464.71572875253809797869 253.52928254972101740350 79.90368751021890147967
 Triangle 80100373 00646464 -464.71572875253809797869 256.05405022517402358062 74.10305840548990374828  -464.71572875253809797869 253.75570779038639557257 74.27417677514205252010  -464.71572875253809797869 253.52928254972101740350 79.90368751021890147967
 Triangle 80100373 00646464 -464.71572875253809797869 253.52928254972101740350 79.90368751021890147967  -464.71572875253809797869 253.75570779038639557257 74.27417677514205252010  -464.71572875253809797869 251.44358876194999652398 81.16176937714101313759
-Triangle 80100373 00646464 -464.71572875253809797869 253.75570779038639557257 74.27417677514205252010  -464.71572875253809797869 251.65590732390543848851 74.83905867255464272603  -464.71572875253809797869 251.44358876194999652398 81.16176937714101313759
-Triangle 80100373 00646464 -464.71572875253809797869 251.44358876194999652398 81.16176937714101313759  -464.71572875253809797869 251.65590732390543848851 74.83905867255464272603  -464.71572875253809797869 249.87900954603384207076 83.28377389791515383877
-Triangle 80100373 00646464 -464.71572875253809797869 251.65590732390543848851 74.83905867255464272603  -464.71572875253809797869 249.69394988691675507653 75.77659617713906925474  -464.71572875253809797869 249.87900954603384207076 83.28377389791515383877
+Triangle 80100373 00646464 -464.71572875253809797869 253.75570779038639557257 74.27417677514205252010  -464.71572875253815482210 251.65590732390543848851 74.83905867255464272603  -464.71572875253809797869 251.44358876194999652398 81.16176937714101313759
+Triangle 80100373 00646464 -464.71572875253809797869 251.44358876194999652398 81.16176937714101313759  -464.71572875253815482210 251.65590732390543848851 74.83905867255464272603  -464.71572875253809797869 249.87900954603384207076 83.28377389791515383877
+Triangle 80100373 00646464 -464.71572875253815482210 251.65590732390543848851 74.83905867255464272603  -464.71572875253809797869 249.69394988691675507653 75.77659617713906925474  -464.71572875253809797869 249.87900954603384207076 83.28377389791515383877
 Triangle 80100373 00646464 -464.71572875253809797869 249.87900954603384207076 83.28377389791515383877  -464.71572875253809797869 249.69394988691675507653 75.77659617713906925474  -464.71572875253809797869 249.28594180508241606731 85.85264173486308436622
 Triangle 80100373 00646464 -464.71572875253809797869 249.69394988691675507653 75.77659617713906925474  -464.71572875253809797869 247.83748331244785845229 77.14231624430432532336  -464.71572875253809797869 249.28594180508241606731 85.85264173486308436622
 Triangle 80100373 00646464 -464.71572875253821166552 261.88058373724294369822 83.74501130225910117133  -464.71572875253809797869 262.28260068984138797532 86.14735826513688721207  -464.71572875253809797869 266.94521257490725929529 81.87163607644357909976
@@ -89319,15 +89319,15 @@ Triangle 80100373 00646464 -464.71572875253809797869 253.06804514537702743837 91
 Triangle 80100373 00646464 -464.71572875253809797869 244.62332992001654474734 90.12836392355640668939  -464.71572875253809797869 245.56086742460095706519 92.09032136054514694479  -464.71572875253809797869 255.63691298232501480925 92.49832944237945753230
 Triangle 80100373 00646464 -464.71572875253809797869 266.94521257490725929529 81.87163607644357909976  -464.71572875253809797869 260.12495373297383594036 90.83823062285897265156  -464.71572875253809797869 267.51009447231984950122 83.97143654292446512954
 Triangle 80100373 00646464 -464.71572875253809797869 245.56086742460095706519 92.09032136054514694479  -464.71572875253809797869 246.92658749176621313381 93.94678793501402935817  -464.71572875253809797869 255.63691298232501480925 92.49832944237945753230
-Triangle 80100373 00646464 -464.71572875253809797869 267.51009447231984950122 83.97143654292446512954  -464.71572875253809797869 260.12495373297383594036 90.83823062285897265156  -464.71572875253809797869 267.68121284197201248389 86.26977897771214998102
+Triangle 80100373 00646464 -464.71572875253809797869 267.51009447231984950122 83.97143654292446512954  -464.71572875253809797869 260.12495373297383594036 90.83823062285897265156  -464.71572875253815482210 267.68121284197201248389 86.26977897771214998102
 Triangle 80100373 00646464 -464.71572875253809797869 246.92658749176621313381 93.94678793501402935817  -464.71572875253809797869 248.70169445990882195474 95.56279802403113876608  -464.71572875253809797869 255.63691298232501480925 92.49832944237945753230
 Triangle 80100373 00646464 -464.71572875253809797869 255.63691298232501480925 92.49832944237945753230  -464.71572875253809797869 248.70169445990882195474 95.56279802403113876608  -464.71572875253809797869 258.03925994520278663913 92.09631248978107009862
 Triangle 80100373 00646464 -464.71572875253809797869 248.70169445990882195474 95.56279802403113876608  -464.71572875253809797869 250.81148807595275229687 96.81117142261442154449  -464.71572875253809797869 258.03925994520278663913 92.09631248978107009862
 Triangle 80100373 00646464 -464.71572875253809797869 258.03925994520278663913 92.09631248978107009862  -464.71572875253809797869 250.81148807595275229687 96.81117142261442154449  -464.71572875253809797869 260.12495373297383594036 90.83823062285897265156
 Triangle 80100373 00646464 -464.71572875253809797869 250.81148807595275229687 96.81117142261442154449  -464.71572875253809797869 253.13231736881817823814 97.60073879653991468786  -464.71572875253809797869 260.12495373297383594036 90.83823062285897265156
-Triangle 80100373 00646464 -464.71572875253809797869 260.12495373297383594036 90.83823062285897265156  -464.71572875253809797869 253.13231736881817823814 97.60073879653991468786  -464.71572875253809797869 267.68121284197201248389 86.26977897771214998102
-Triangle 80100373 00646464 -464.71572875253809797869 253.13231736881817823814 97.60073879653991468786  -464.71572875253809797869 255.51449226974975204030 97.89694159451008204087  -464.71572875253809797869 267.68121284197201248389 86.26977897771214998102
-Triangle 80100373 00646464 -464.71572875253809797869 267.68121284197201248389 86.26977897771214998102  -464.71572875253809797869 255.51449226974975204030 97.89694159451008204087  -464.71572875253809797869 267.38501004400183092002 88.65195387864368115061
+Triangle 80100373 00646464 -464.71572875253809797869 260.12495373297383594036 90.83823062285897265156  -464.71572875253809797869 253.13231736881817823814 97.60073879653991468786  -464.71572875253815482210 267.68121284197201248389 86.26977897771214998102
+Triangle 80100373 00646464 -464.71572875253809797869 253.13231736881817823814 97.60073879653991468786  -464.71572875253809797869 255.51449226974975204030 97.89694159451008204087  -464.71572875253815482210 267.68121284197201248389 86.26977897771214998102
+Triangle 80100373 00646464 -464.71572875253815482210 267.68121284197201248389 86.26977897771214998102  -464.71572875253809797869 255.51449226974975204030 97.89694159451008204087  -464.71572875253809797869 267.38501004400183092002 88.65195387864368115061
 Triangle 80100373 00646464 -464.71572875253809797869 255.51449226974975204030 97.89694159451008204087  -464.71572875253809797869 257.81283470453740847006 97.72582322485790484734  -464.71572875253809797869 267.38501004400183092002 88.65195387864368115061
 Triangle 80100373 00646464 -464.71572875253809797869 267.38501004400183092002 88.65195387864368115061  -464.71572875253809797869 257.81283470453740847006 97.72582322485790484734  -464.71572875253809797869 266.59544267007635198752 90.97278317150914972444
 Triangle 80100373 00646464 -464.71572875253809797869 257.81283470453740847006 97.72582322485790484734  -464.71572875253809797869 259.91263517101833713241 97.16094132744532885226  -464.71572875253809797869 266.59544267007635198752 90.97278317150914972444
@@ -89338,34 +89338,34 @@ Triangle 00000000 00646464 -464.71572875253809797869 244.62332992001654474734 90
 Triangle 00000000 00646464 -462.21572875253809797869 244.62332992001654474734 90.12836392355642090024  -464.71572875253809797869 244.05844802259682069234 88.02856345703408180725  -462.21572875253798429185 244.05844802260398296312 88.02856345707549223789
 Triangle 00000000 00646464 -462.21572875253809797869 251.65590732390549533193 74.83905867255464272603  -462.21572875253798429185 249.69394988688071634897 75.77659617716057027792  -464.71572875253809797869 251.65590732390549533193 74.83905867255464272603
 Triangle 00000000 00646464 -464.71572875253809797869 251.65590732390549533193 74.83905867255464272603  -462.21572875253798429185 249.69394988688071634897 75.77659617716057027792  -464.71572875253821166552 249.69394988691664138969 75.77659617713909767645
-Triangle 00000000 00646464 -464.71572875253809797869 244.05844802259682069234 88.02856345703408180725  -464.71572875253809797869 243.88732965295184840215 85.73022102228418361847  -462.21572875253798429185 244.05844802260398296312 88.02856345707549223789
-Triangle 00000000 00646464 -462.21572875253798429185 244.05844802260398296312 88.02856345707549223789  -464.71572875253809797869 243.88732965295184840215 85.73022102228418361847  -462.21572875253798429185 243.88732965295190524557 85.73022102228414098590
+Triangle 00000000 00646464 -464.71572875253809797869 244.05844802259682069234 88.02856345703408180725  -464.71572875253815482210 243.88732965295184840215 85.73022102228418361847  -462.21572875253798429185 244.05844802260398296312 88.02856345707549223789
+Triangle 00000000 00646464 -462.21572875253798429185 244.05844802260398296312 88.02856345707549223789  -464.71572875253815482210 243.88732965295184840215 85.73022102228418361847  -462.21572875253804113527 243.88732965295190524557 85.73022102228414098590
 Triangle 00000000 00646464 -462.21572875253798429185 249.69394988688071634897 75.77659617716057027792  -462.21572875253809797869 247.83748331244515838989 77.14231624430676959037  -464.71572875253821166552 249.69394988691664138969 75.77659617713909767645
 Triangle 00000000 00646464 -464.71572875253821166552 249.69394988691664138969 75.77659617713909767645  -462.21572875253809797869 247.83748331244515838989 77.14231624430676959037  -464.71572875253809797869 247.83748331244510154647 77.14231624430679801208
-Triangle 00000000 00646464 -464.71572875253809797869 243.88732965295184840215 85.73022102228418361847  -464.71572875253821166552 244.18353245092194470089 83.34804612135630463854  -462.21572875253798429185 243.88732965295190524557 85.73022102228414098590
-Triangle 00000000 00646464 -462.21572875253798429185 243.88732965295190524557 85.73022102228414098590  -464.71572875253821166552 244.18353245092194470089 83.34804612135630463854  -462.21572875253809797869 244.18353245092197312260 83.34804612135630463854
-Triangle 00000000 00646464 -462.21572875253809797869 247.83748331244515838989 77.14231624430676959037  -462.21572875253809797869 246.22147322343067799011 78.91742321244694835514  -464.71572875253809797869 247.83748331244510154647 77.14231624430679801208
-Triangle 00000000 00646464 -464.71572875253809797869 247.83748331244510154647 77.14231624430679801208  -462.21572875253809797869 246.22147322343067799011 78.91742321244694835514  -464.71572875253809797869 246.22147322343073483353 78.91742321244696256599
-Triangle 00000000 00646464 -464.71572875253821166552 244.18353245092194470089 83.34804612135630463854  -464.71572875253809797869 244.97309982484748047682 81.02721682849082185385  -462.21572875253809797869 244.18353245092197312260 83.34804612135630463854
-Triangle 00000000 00646464 -462.21572875253809797869 244.18353245092197312260 83.34804612135630463854  -464.71572875253809797869 244.97309982484748047682 81.02721682849082185385  -462.21572875253809797869 244.97309982484745205511 81.02721682849085027556
+Triangle 00000000 00646464 -464.71572875253815482210 243.88732965295184840215 85.73022102228418361847  -464.71572875253821166552 244.18353245092194470089 83.34804612135630463854  -462.21572875253804113527 243.88732965295190524557 85.73022102228414098590
+Triangle 00000000 00646464 -462.21572875253804113527 243.88732965295190524557 85.73022102228414098590  -464.71572875253821166552 244.18353245092194470089 83.34804612135630463854  -462.21572875253815482210 244.18353245092197312260 83.34804612135630463854
+Triangle 00000000 00646464 -462.21572875253809797869 247.83748331244515838989 77.14231624430676959037  -462.21572875253815482210 246.22147322343067799011 78.91742321244694835514  -464.71572875253809797869 247.83748331244510154647 77.14231624430679801208
+Triangle 00000000 00646464 -464.71572875253809797869 247.83748331244510154647 77.14231624430679801208  -462.21572875253815482210 246.22147322343067799011 78.91742321244694835514  -464.71572875253809797869 246.22147322343073483353 78.91742321244696256599
+Triangle 00000000 00646464 -464.71572875253821166552 244.18353245092194470089 83.34804612135630463854  -464.71572875253809797869 244.97309982484748047682 81.02721682849082185385  -462.21572875253815482210 244.18353245092197312260 83.34804612135630463854
+Triangle 00000000 00646464 -462.21572875253815482210 244.18353245092197312260 83.34804612135630463854  -464.71572875253809797869 244.97309982484748047682 81.02721682849082185385  -462.21572875253809797869 244.97309982484745205511 81.02721682849085027556
 Triangle 00000000 00646464 -464.71572875253809797869 244.97309982484748047682 81.02721682849082185385  -464.71572875253809797869 246.22147322343073483353 78.91742321244696256599  -462.21572875253809797869 244.97309982484745205511 81.02721682849085027556
-Triangle 00000000 00646464 -462.21572875253809797869 244.97309982484745205511 81.02721682849085027556  -464.71572875253809797869 246.22147322343073483353 78.91742321244696256599  -462.21572875253809797869 246.22147322343067799011 78.91742321244694835514
+Triangle 00000000 00646464 -462.21572875253809797869 244.97309982484745205511 81.02721682849085027556  -464.71572875253809797869 246.22147322343073483353 78.91742321244696256599  -462.21572875253815482210 246.22147322343067799011 78.91742321244694835514
 Triangle 00000000 00646464 -464.71572875253809797869 259.91263517101833713241 97.16094132744535727397  -464.71572875253809797869 257.81283470449591277429 97.72582322486509553983  -462.21572875253809797869 259.91263517101833713241 97.16094132744535727397
-Triangle 00000000 00646464 -462.21572875253809797869 259.91263517101833713241 97.16094132744535727397  -464.71572875253809797869 257.81283470449591277429 97.72582322486509553983  -462.21572875253809797869 257.81283470453740847006 97.72582322485794747990
+Triangle 00000000 00646464 -462.21572875253809797869 259.91263517101833713241 97.16094132744535727397  -464.71572875253809797869 257.81283470449591277429 97.72582322486509553983  -462.21572875253815482210 257.81283470453740847006 97.72582322485794747990
 Triangle 00000000 00646464 -462.21572875253809797869 244.62332992001654474734 90.12836392355642090024  -462.21572875253809797869 245.56086742462247229923 92.09032136058128514833  -464.71572875253809797869 244.62332992001654474734 90.12836392355642090024
 Triangle 00000000 00646464 -464.71572875253809797869 244.62332992001654474734 90.12836392355642090024  -462.21572875253809797869 245.56086742462247229923 92.09032136058128514833  -464.71572875253809797869 245.56086742460095706519 92.09032136054516115564
-Triangle 00000000 00646464 -464.71572875253809797869 257.81283470449591277429 97.72582322486509553983  -464.71572875253809797869 255.51449226974605721807 97.89694159451001098660  -462.21572875253809797869 257.81283470453740847006 97.72582322485794747990
-Triangle 00000000 00646464 -462.21572875253809797869 257.81283470453740847006 97.72582322485794747990  -464.71572875253809797869 255.51449226974605721807 97.89694159451001098660  -462.21572875253809797869 255.51449226974611406149 97.89694159451001098660
+Triangle 00000000 00646464 -464.71572875253809797869 257.81283470449591277429 97.72582322486509553983  -464.71572875253809797869 255.51449226974605721807 97.89694159451001098660  -462.21572875253815482210 257.81283470453740847006 97.72582322485794747990
+Triangle 00000000 00646464 -462.21572875253815482210 257.81283470453740847006 97.72582322485794747990  -464.71572875253809797869 255.51449226974605721807 97.89694159451001098660  -462.21572875253809797869 255.51449226974611406149 97.89694159451001098660
 Triangle 00000000 00646464 -462.21572875253809797869 245.56086742462247229923 92.09032136058128514833  -462.21572875253809797869 246.92658749176868582254 93.94678793501677205313  -464.71572875253809797869 245.56086742460095706519 92.09032136054516115564
 Triangle 00000000 00646464 -464.71572875253809797869 245.56086742460095706519 92.09032136054516115564  -462.21572875253809797869 246.92658749176868582254 93.94678793501677205313  -464.71572875253809797869 246.92658749176871424424 93.94678793501680047484
 Triangle 00000000 00646464 -464.71572875253809797869 255.51449226974605721807 97.89694159451001098660  -464.71572875253809797869 253.13231736881820665985 97.60073879653994310956  -462.21572875253809797869 255.51449226974611406149 97.89694159451001098660
 Triangle 00000000 00646464 -462.21572875253809797869 255.51449226974611406149 97.89694159451001098660  -464.71572875253809797869 253.13231736881820665985 97.60073879653994310956  -462.21572875253809797869 253.13231736881820665985 97.60073879653991468786
-Triangle 00000000 00646464 -462.21572875253809797869 246.92658749176868582254 93.94678793501677205313  -462.21572875253798429185 248.70169445990890721987 95.56279802403118139864  -464.71572875253809797869 246.92658749176871424424 93.94678793501680047484
-Triangle 00000000 00646464 -464.71572875253809797869 246.92658749176871424424 93.94678793501680047484  -462.21572875253798429185 248.70169445990890721987 95.56279802403118139864  -464.71572875253798429185 248.70169445990885037645 95.56279802403122403121
+Triangle 00000000 00646464 -462.21572875253809797869 246.92658749176868582254 93.94678793501677205313  -462.21572875253804113527 248.70169445990890721987 95.56279802403118139864  -464.71572875253809797869 246.92658749176871424424 93.94678793501680047484
+Triangle 00000000 00646464 -464.71572875253809797869 246.92658749176871424424 93.94678793501680047484  -462.21572875253804113527 248.70169445990890721987 95.56279802403118139864  -464.71572875253804113527 248.70169445990885037645 95.56279802403122403121
 Triangle 00000000 00646464 -464.71572875253809797869 253.13231736881820665985 97.60073879653994310956  -464.71572875253809797869 250.81148807595272387516 96.81117142261444996620  -462.21572875253809797869 253.13231736881820665985 97.60073879653991468786
-Triangle 00000000 00646464 -462.21572875253809797869 253.13231736881820665985 97.60073879653991468786  -464.71572875253809797869 250.81148807595272387516 96.81117142261444996620  -462.21572875253809797869 250.81148807595272387516 96.81117142261446417706
-Triangle 00000000 00646464 -464.71572875253809797869 250.81148807595272387516 96.81117142261444996620  -464.71572875253798429185 248.70169445990885037645 95.56279802403122403121  -462.21572875253809797869 250.81148807595272387516 96.81117142261446417706
-Triangle 00000000 00646464 -462.21572875253809797869 250.81148807595272387516 96.81117142261446417706  -464.71572875253798429185 248.70169445990885037645 95.56279802403122403121  -462.21572875253798429185 248.70169445990890721987 95.56279802403118139864
+Triangle 00000000 00646464 -462.21572875253809797869 253.13231736881820665985 97.60073879653991468786  -464.71572875253809797869 250.81148807595272387516 96.81117142261444996620  -462.21572875253815482210 250.81148807595272387516 96.81117142261446417706
+Triangle 00000000 00646464 -464.71572875253809797869 250.81148807595272387516 96.81117142261444996620  -464.71572875253804113527 248.70169445990885037645 95.56279802403122403121  -462.21572875253815482210 250.81148807595272387516 96.81117142261446417706
+Triangle 00000000 00646464 -462.21572875253815482210 250.81148807595272387516 96.81117142261446417706  -464.71572875253804113527 248.70169445990885037645 95.56279802403122403121  -462.21572875253804113527 248.70169445990890721987 95.56279802403118139864
 Triangle 00000000 00646464 -464.71572875253809797869 266.94521257490725929529 81.87163607644359331061  -464.71572875253809797869 267.51009447232695492858 83.97143654296593240360  -462.21572875253809797869 266.94521257490725929529 81.87163607644359331061
 Triangle 00000000 00646464 -462.21572875253809797869 266.94521257490725929529 81.87163607644359331061  -464.71572875253809797869 267.51009447232695492858 83.97143654296593240360  -462.21572875253798429185 267.51009447231984950122 83.97143654292447934040
 Triangle 00000000 00646464 -462.21572875253809797869 259.91263517101833713241 97.16094132744535727397  -462.21572875253809797869 261.87459260804314453708 96.22340382283944393293  -464.71572875253809797869 259.91263517101833713241 97.16094132744535727397
@@ -89373,38 +89373,38 @@ Triangle 00000000 00646464 -464.71572875253809797869 259.91263517101833713241 97
 Triangle 00000000 00646464 -464.71572875253809797869 267.51009447232695492858 83.97143654296593240360  -464.71572875253809797869 267.68121284197189879706 86.26977897771583059239  -462.21572875253798429185 267.51009447231984950122 83.97143654292447934040
 Triangle 00000000 00646464 -462.21572875253798429185 267.51009447231984950122 83.97143654292447934040  -464.71572875253809797869 267.68121284197189879706 86.26977897771583059239  -462.21572875253809797869 267.68121284197195564047 86.26977897771584480324
 Triangle 00000000 00646464 -462.21572875253809797869 261.87459260804314453708 96.22340382283944393293  -462.21572875253809797869 263.73105918247870249616 94.85768375569323040963  -464.71572875253809797869 261.87459260800710580952 96.22340382286090232355
-Triangle 00000000 00646464 -464.71572875253809797869 261.87459260800710580952 96.22340382286090232355  -462.21572875253809797869 263.73105918247870249616 94.85768375569323040963  -464.71572875253798429185 263.73105918247870249616 94.85768375569324462049
+Triangle 00000000 00646464 -464.71572875253809797869 261.87459260800710580952 96.22340382286090232355  -462.21572875253809797869 263.73105918247870249616 94.85768375569323040963  -464.71572875253804113527 263.73105918247870249616 94.85768375569324462049
 Triangle 00000000 00646464 -464.71572875253809797869 267.68121284197189879706 86.26977897771583059239  -464.71572875253809797869 267.38501004400183092002 88.65195387864373799403  -462.21572875253809797869 267.68121284197195564047 86.26977897771584480324
 Triangle 00000000 00646464 -462.21572875253809797869 267.68121284197195564047 86.26977897771584480324  -464.71572875253809797869 267.38501004400183092002 88.65195387864373799403  -462.21572875253809797869 267.38501004400183092002 88.65195387864369536146
-Triangle 00000000 00646464 -462.21572875253809797869 263.73105918247870249616 94.85768375569323040963  -462.21572875253809797869 265.34706927149306920910 93.08257678755308006657  -464.71572875253798429185 263.73105918247870249616 94.85768375569324462049
-Triangle 00000000 00646464 -464.71572875253798429185 263.73105918247870249616 94.85768375569324462049  -462.21572875253809797869 265.34706927149306920910 93.08257678755308006657  -464.71572875253809797869 265.34706927149312605252 93.08257678755300901230
+Triangle 00000000 00646464 -462.21572875253809797869 263.73105918247870249616 94.85768375569323040963  -462.21572875253815482210 265.34706927149306920910 93.08257678755308006657  -464.71572875253804113527 263.73105918247870249616 94.85768375569324462049
+Triangle 00000000 00646464 -464.71572875253804113527 263.73105918247870249616 94.85768375569324462049  -462.21572875253815482210 265.34706927149306920910 93.08257678755308006657  -464.71572875253809797869 265.34706927149312605252 93.08257678755300901230
 Triangle 00000000 00646464 -464.71572875253809797869 267.38501004400183092002 88.65195387864373799403  -464.71572875253809797869 266.59544267007635198752 90.97278317150916393530  -462.21572875253809797869 267.38501004400183092002 88.65195387864369536146
-Triangle 00000000 00646464 -462.21572875253809797869 267.38501004400183092002 88.65195387864369536146  -464.71572875253809797869 266.59544267007635198752 90.97278317150916393530  -462.21572875253798429185 266.59544267007635198752 90.97278317150916393530
-Triangle 00000000 00646464 -464.71572875253809797869 266.59544267007635198752 90.97278317150916393530  -464.71572875253809797869 265.34706927149312605252 93.08257678755300901230  -462.21572875253798429185 266.59544267007635198752 90.97278317150916393530
-Triangle 00000000 00646464 -462.21572875253798429185 266.59544267007635198752 90.97278317150916393530  -464.71572875253809797869 265.34706927149312605252 93.08257678755300901230  -462.21572875253809797869 265.34706927149306920910 93.08257678755308006657
+Triangle 00000000 00646464 -462.21572875253809797869 267.38501004400183092002 88.65195387864369536146  -464.71572875253809797869 266.59544267007635198752 90.97278317150916393530  -462.21572875253804113527 266.59544267007635198752 90.97278317150916393530
+Triangle 00000000 00646464 -464.71572875253809797869 266.59544267007635198752 90.97278317150916393530  -464.71572875253809797869 265.34706927149312605252 93.08257678755300901230  -462.21572875253804113527 266.59544267007635198752 90.97278317150916393530
+Triangle 00000000 00646464 -462.21572875253804113527 266.59544267007635198752 90.97278317150916393530  -464.71572875253809797869 265.34706927149312605252 93.08257678755300901230  -462.21572875253815482210 265.34706927149306920910 93.08257678755308006657
 Triangle 00000000 00646464 -464.71572875253809797869 251.65590732390549533193 74.83905867255464272603  -464.71572875253809797869 253.75570779042783442492 74.27417677513489024932  -462.21572875253809797869 251.65590732390549533193 74.83905867255464272603
-Triangle 00000000 00646464 -462.21572875253809797869 251.65590732390549533193 74.83905867255464272603  -464.71572875253809797869 253.75570779042783442492 74.27417677513489024932  -462.21572875253798429185 253.75570779038642399428 74.27417677514205252010
+Triangle 00000000 00646464 -462.21572875253809797869 251.65590732390549533193 74.83905867255464272603  -464.71572875253809797869 253.75570779042783442492 74.27417677513489024932  -462.21572875253804113527 253.75570779038642399428 74.27417677514205252010
 Triangle 00000000 00646464 -462.21572875253809797869 266.94521257490725929529 81.87163607644359331061  -462.21572875253809797869 266.00767507030127489998 79.90967863941872906253  -464.71572875253809797869 266.94521257490725929529 81.87163607644359331061
 Triangle 00000000 00646464 -464.71572875253809797869 266.94521257490725929529 81.87163607644359331061  -462.21572875253809797869 266.00767507030127489998 79.90967863941872906253  -464.71572875253809797869 266.00767507032287539914 79.90967863945485305521
-Triangle 00000000 00646464 -464.71572875253809797869 253.75570779042783442492 74.27417677513489024932  -464.71572875253809797869 256.05405022517771840285 74.10305840548998901340  -462.21572875253798429185 253.75570779038642399428 74.27417677514205252010
-Triangle 00000000 00646464 -462.21572875253798429185 253.75570779038642399428 74.27417677514205252010  -464.71572875253809797869 256.05405022517771840285 74.10305840548998901340  -462.21572875253809797869 256.05405022517777524627 74.10305840548997480255
-Triangle 00000000 00646464 -462.21572875253809797869 266.00767507030127489998 79.90967863941872906253  -462.21572875253809797869 264.64195500315503295496 78.05321206498319952516  -464.71572875253809797869 266.00767507032287539914 79.90967863945485305521
-Triangle 00000000 00646464 -464.71572875253809797869 266.00767507032287539914 79.90967863945485305521  -462.21572875253809797869 264.64195500315503295496 78.05321206498319952516  -464.71572875253809797869 264.64195500315508979838 78.05321206498321373601
+Triangle 00000000 00646464 -464.71572875253809797869 253.75570779042783442492 74.27417677513489024932  -464.71572875253809797869 256.05405022517771840285 74.10305840548998901340  -462.21572875253804113527 253.75570779038642399428 74.27417677514205252010
+Triangle 00000000 00646464 -462.21572875253804113527 253.75570779038642399428 74.27417677514205252010  -464.71572875253809797869 256.05405022517771840285 74.10305840548998901340  -462.21572875253809797869 256.05405022517777524627 74.10305840548997480255
+Triangle 00000000 00646464 -462.21572875253809797869 266.00767507030127489998 79.90967863941872906253  -462.21572875253815482210 264.64195500315503295496 78.05321206498319952516  -464.71572875253809797869 266.00767507032287539914 79.90967863945485305521
+Triangle 00000000 00646464 -464.71572875253809797869 266.00767507032287539914 79.90967863945485305521  -462.21572875253815482210 264.64195500315503295496 78.05321206498319952516  -464.71572875253809797869 264.64195500315508979838 78.05321206498321373601
 Triangle 00000000 00646464 -464.71572875253809797869 256.05405022517771840285 74.10305840548998901340  -464.71572875253809797869 258.43622512610556896107 74.39926120346008531214  -462.21572875253809797869 256.05405022517777524627 74.10305840548997480255
 Triangle 00000000 00646464 -462.21572875253809797869 256.05405022517777524627 74.10305840548997480255  -464.71572875253809797869 258.43622512610556896107 74.39926120346008531214  -462.21572875253809797869 258.43622512610562580448 74.39926120346009952300
-Triangle 00000000 00646464 -462.21572875253809797869 264.64195500315503295496 78.05321206498319952516  -462.21572875253809797869 262.86684803501498208789 76.43720197596880439050  -464.71572875253809797869 264.64195500315508979838 78.05321206498321373601
-Triangle 00000000 00646464 -464.71572875253809797869 264.64195500315508979838 78.05321206498321373601  -462.21572875253809797869 262.86684803501498208789 76.43720197596880439050  -464.71572875253809797869 262.86684803501498208789 76.43720197596881860136
+Triangle 00000000 00646464 -462.21572875253815482210 264.64195500315503295496 78.05321206498319952516  -462.21572875253809797869 262.86684803501498208789 76.43720197596880439050  -464.71572875253809797869 264.64195500315508979838 78.05321206498321373601
+Triangle 00000000 00646464 -464.71572875253809797869 264.64195500315508979838 78.05321206498321373601  -462.21572875253809797869 262.86684803501498208789 76.43720197596880439050  -464.71572875253815482210 262.86684803501498208789 76.43720197596881860136
 Triangle 00000000 00646464 -464.71572875253809797869 258.43622512610556896107 74.39926120346008531214  -464.71572875253798429185 260.75705441897105174576 75.18882857738553582294  -462.21572875253809797869 258.43622512610562580448 74.39926120346009952300
 Triangle 00000000 00646464 -462.21572875253809797869 258.43622512610562580448 74.39926120346009952300  -464.71572875253798429185 260.75705441897105174576 75.18882857738553582294  -462.21572875253798429185 260.75705441897110858918 75.18882857738555003380
-Triangle 00000000 00646464 -464.71572875253798429185 260.75705441897105174576 75.18882857738553582294  -464.71572875253809797869 262.86684803501498208789 76.43720197596881860136  -462.21572875253798429185 260.75705441897110858918 75.18882857738555003380
-Triangle 00000000 00646464 -462.21572875253798429185 260.75705441897110858918 75.18882857738555003380  -464.71572875253809797869 262.86684803501498208789 76.43720197596881860136  -462.21572875253809797869 262.86684803501498208789 76.43720197596880439050
+Triangle 00000000 00646464 -464.71572875253798429185 260.75705441897105174576 75.18882857738553582294  -464.71572875253815482210 262.86684803501498208789 76.43720197596881860136  -462.21572875253798429185 260.75705441897110858918 75.18882857738555003380
+Triangle 00000000 00646464 -462.21572875253798429185 260.75705441897110858918 75.18882857738555003380  -464.71572875253815482210 262.86684803501498208789 76.43720197596881860136  -462.21572875253809797869 262.86684803501498208789 76.43720197596880439050
 Triangle 80100396 00646464 -462.21572875253809797869 260.62250187032088888373 81.65931751448812292438  -462.21572875253809797869 258.50049734954671976084 80.09473829857194004944  -462.21572875253809797869 261.88058373724300054164 83.74501130225911538218
 Triangle 80100396 00646464 -462.21572875253809797869 262.28260068984133113190 86.14735826513690142292  -462.21572875253809797869 261.88058373724300054164 83.74501130225911538218  -462.21572875253809797869 261.68953294889001881529 88.71622610208483195038
 Triangle 80100396 00646464 -462.21572875253809797869 260.12495373297377909694 90.83823062285898686241  -462.21572875253809797869 261.68953294889001881529 88.71622610208483195038  -462.21572875253809797869 258.03925994520272979571 92.09631248978108430947
 Triangle 80100396 00646464 -462.21572875253809797869 255.63691298232495796583 92.49832944237947174315  -462.21572875253809797869 258.03925994520272979571 92.09631248978108430947  -462.21572875253809797869 253.06804514537705586008 91.90526170142804573970
-Triangle 80100396 00646464 -462.21572875253809797869 250.94604062460291515890 90.34068248551187707562  -462.21572875253809797869 253.06804514537705586008 91.90526170142804573970  -462.21572875253809797869 249.68795875768080350099 88.25498869774089882867
-Triangle 80100396 00646464 -462.21572875253809797869 250.15690587227936703130 88.08152802868390551794  -462.21572875253809797869 249.68795875768080350099 88.25498869774089882867  -462.21572875253809797869 251.31821221097669649680 90.00678383278020078251
-Triangle 80100396 00646464 -462.21572875253809797869 249.68795875768080350099 88.25498869774089882867  -462.21572875253809797869 253.06804514537705586008 91.90526170142804573970  -462.21572875253809797869 251.31821221097669649680 90.00678383278020078251
+Triangle 80100396 00646464 -462.21572875253809797869 250.94604062460291515890 90.34068248551187707562  -462.21572875253809797869 253.06804514537705586008 91.90526170142804573970  -462.21572875253815482210 249.68795875768080350099 88.25498869774089882867
+Triangle 80100396 00646464 -462.21572875253809797869 250.15690587227936703130 88.08152802868390551794  -462.21572875253815482210 249.68795875768080350099 88.25498869774089882867  -462.21572875253809797869 251.31821221097669649680 90.00678383278020078251
+Triangle 80100396 00646464 -462.21572875253815482210 249.68795875768080350099 88.25498869774089882867  -462.21572875253809797869 253.06804514537705586008 91.90526170142804573970  -462.21572875253809797869 251.31821221097669649680 90.00678383278020078251
 Triangle 80100396 00646464 -462.21572875253809797869 251.31821221097669649680 90.00678383278020078251  -462.21572875253809797869 253.06804514537705586008 91.90526170142804573970  -462.21572875253809797869 253.27698561476813665649 91.45101080131820481256
 Triangle 80100396 00646464 -462.21572875253809797869 253.27698561476813665649 91.45101080131820481256  -462.21572875253809797869 253.06804514537705586008 91.90526170142804573970  -462.21572875253809797869 255.64824823348939730749 91.99845794681181132546
 Triangle 80100396 00646464 -462.21572875253809797869 253.06804514537705586008 91.90526170142804573970  -462.21572875253809797869 258.03925994520272979571 92.09631248978108430947  -462.21572875253809797869 255.64824823348939730749 91.99845794681181132546
@@ -89428,40 +89428,40 @@ Triangle 80100396 00646464 -462.21572875253809797869 251.44358876195002494569 81
 Triangle 80100396 00646464 -462.21572875253809797869 251.77748741468167281710 81.53394096351478026463  -462.21572875253809797869 249.87900954603384207076 83.28377389791518226048  -462.21572875253809797869 250.33326044614366878704 83.49271436730630568945
 Triangle 80100396 00646464 -462.21572875253809797869 249.87900954603384207076 83.28377389791518226048  -462.21572875253809797869 249.28594180508241606731 85.85264173486312699879  -462.21572875253809797869 250.33326044614366878704 83.49271436730630568945
 Triangle 80100396 00646464 -462.21572875253809797869 250.33326044614366878704 83.49271436730630568945  -462.21572875253809797869 249.28594180508241606731 85.85264173486312699879  -462.21572875253809797869 249.78581330065009069585 85.86397698602748107533
-Triangle 80100396 00646464 -462.21572875253809797869 249.28594180508241606731 85.85264173486312699879  -462.21572875253809797869 249.68795875768080350099 88.25498869774089882867  -462.21572875253809797869 249.78581330065009069585 85.86397698602748107533
-Triangle 80100396 00646464 -462.21572875253809797869 249.78581330065009069585 85.86397698602748107533  -462.21572875253809797869 249.68795875768080350099 88.25498869774089882867  -462.21572875253809797869 250.15690587227936703130 88.08152802868390551794
+Triangle 80100396 00646464 -462.21572875253809797869 249.28594180508241606731 85.85264173486312699879  -462.21572875253815482210 249.68795875768080350099 88.25498869774089882867  -462.21572875253809797869 249.78581330065009069585 85.86397698602748107533
+Triangle 80100396 00646464 -462.21572875253809797869 249.78581330065009069585 85.86397698602748107533  -462.21572875253815482210 249.68795875768080350099 88.25498869774089882867  -462.21572875253809797869 250.15690587227936703130 88.08152802868390551794
 Triangle 00000000 00646464 -464.71572875253809797869 249.68795875768083192270 88.25498869774089882867  -464.71572875253798429185 250.94604062494616414369 90.34068248589444749541  -462.21572875253809797869 249.68795875768083192270 88.25498869774089882867
-Triangle 00000000 00646464 -462.21572875253809797869 249.68795875768083192270 88.25498869774089882867  -464.71572875253798429185 250.94604062494616414369 90.34068248589444749541  -462.21572875253798429185 250.94604062460294358061 90.34068248551186286477
+Triangle 00000000 00646464 -462.21572875253809797869 249.68795875768083192270 88.25498869774089882867  -464.71572875253798429185 250.94604062494616414369 90.34068248589444749541  -462.21572875253804113527 250.94604062460294358061 90.34068248551186286477
 Triangle 00000000 00646464 -462.21572875253809797869 258.03925994520278663913 92.09631248978108430947  -462.21572875253809797869 255.63691298181120714617 92.49832944236781884229  -464.71572875253809797869 258.03925994520278663913 92.09631248978108430947
 Triangle 00000000 00646464 -464.71572875253809797869 258.03925994520278663913 92.09631248978108430947  -462.21572875253809797869 255.63691298181120714617 92.49832944236781884229  -464.71572875253809797869 255.63691298232495796583 92.49832944237947174315
-Triangle 00000000 00646464 -464.71572875253798429185 250.94604062494616414369 90.34068248589444749541  -464.71572875253809797869 253.06804514537705586008 91.90526170142807416141  -462.21572875253798429185 250.94604062460294358061 90.34068248551186286477
-Triangle 00000000 00646464 -462.21572875253798429185 250.94604062460294358061 90.34068248551186286477  -464.71572875253809797869 253.06804514537705586008 91.90526170142807416141  -462.21572875253809797869 253.06804514537705586008 91.90526170142807416141
+Triangle 00000000 00646464 -464.71572875253798429185 250.94604062494616414369 90.34068248589444749541  -464.71572875253809797869 253.06804514537705586008 91.90526170142807416141  -462.21572875253804113527 250.94604062460294358061 90.34068248551186286477
+Triangle 00000000 00646464 -462.21572875253804113527 250.94604062460294358061 90.34068248551186286477  -464.71572875253809797869 253.06804514537705586008 91.90526170142807416141  -462.21572875253809797869 253.06804514537705586008 91.90526170142807416141
 Triangle 00000000 00646464 -464.71572875253809797869 253.06804514537705586008 91.90526170142807416141  -464.71572875253809797869 255.63691298232495796583 92.49832944237947174315  -462.21572875253809797869 253.06804514537705586008 91.90526170142807416141
 Triangle 00000000 00646464 -462.21572875253809797869 253.06804514537705586008 91.90526170142807416141  -464.71572875253809797869 255.63691298232495796583 92.49832944237947174315  -462.21572875253809797869 255.63691298181120714617 92.49832944236781884229
 Triangle 00000000 00646464 -464.71572875253809797869 258.03925994520278663913 92.09631248978108430947  -464.71572875253809797869 260.12495373335633530587 90.83823062251576629933  -462.21572875253809797869 258.03925994520278663913 92.09631248978108430947
 Triangle 00000000 00646464 -462.21572875253809797869 258.03925994520278663913 92.09631248978108430947  -464.71572875253809797869 260.12495373335633530587 90.83823062251576629933  -462.21572875253809797869 260.12495373297377909694 90.83823062285900107327
 Triangle 00000000 00646464 -462.21572875253809797869 261.88058373724300054164 83.74501130225910117133  -462.21572875253821166552 262.28260068982967823104 86.14735826565075171857  -464.71572875253809797869 261.88058373724300054164 83.74501130225910117133
-Triangle 00000000 00646464 -464.71572875253809797869 261.88058373724300054164 83.74501130225910117133  -462.21572875253821166552 262.28260068982967823104 86.14735826565075171857  -464.71572875253798429185 262.28260068984138797532 86.14735826513687300121
+Triangle 00000000 00646464 -464.71572875253809797869 261.88058373724300054164 83.74501130225910117133  -462.21572875253821166552 262.28260068982967823104 86.14735826565075171857  -464.71572875253804113527 262.28260068984138797532 86.14735826513687300121
 Triangle 00000000 00646464 -464.71572875253809797869 260.12495373335633530587 90.83823062251576629933  -464.71572875253809797869 261.68953294888990512845 88.71622610208484616123  -462.21572875253809797869 260.12495373297377909694 90.83823062285900107327
-Triangle 00000000 00646464 -462.21572875253809797869 260.12495373297377909694 90.83823062285900107327  -464.71572875253809797869 261.68953294888990512845 88.71622610208484616123  -462.21572875253809797869 261.68953294888990512845 88.71622610208486037209
-Triangle 00000000 00646464 -464.71572875253809797869 261.68953294888990512845 88.71622610208484616123  -464.71572875253798429185 262.28260068984138797532 86.14735826513687300121  -462.21572875253809797869 261.68953294888990512845 88.71622610208486037209
-Triangle 00000000 00646464 -462.21572875253809797869 261.68953294888990512845 88.71622610208486037209  -464.71572875253798429185 262.28260068984138797532 86.14735826513687300121  -462.21572875253821166552 262.28260068982967823104 86.14735826565075171857
+Triangle 00000000 00646464 -462.21572875253809797869 260.12495373297377909694 90.83823062285900107327  -464.71572875253809797869 261.68953294888990512845 88.71622610208484616123  -462.21572875253815482210 261.68953294888990512845 88.71622610208486037209
+Triangle 00000000 00646464 -464.71572875253809797869 261.68953294888990512845 88.71622610208484616123  -464.71572875253804113527 262.28260068984138797532 86.14735826513687300121  -462.21572875253815482210 261.68953294888990512845 88.71622610208486037209
+Triangle 00000000 00646464 -462.21572875253815482210 261.68953294888990512845 88.71622610208486037209  -464.71572875253804113527 262.28260068984138797532 86.14735826513687300121  -462.21572875253821166552 262.28260068982967823104 86.14735826565075171857
 Triangle 00000000 00646464 -464.71572875253809797869 261.88058373724300054164 83.74501130225910117133  -464.71572875253809797869 260.62250186997766832064 81.65931751410555250459  -462.21572875253809797869 261.88058373724300054164 83.74501130225910117133
-Triangle 00000000 00646464 -462.21572875253809797869 261.88058373724300054164 83.74501130225910117133  -464.71572875253809797869 260.62250186997766832064 81.65931751410555250459  -462.21572875253809797869 260.62250187032088888373 81.65931751448813713523
+Triangle 00000000 00646464 -462.21572875253809797869 261.88058373724300054164 83.74501130225910117133  -464.71572875253809797869 260.62250186997766832064 81.65931751410555250459  -462.21572875253815482210 260.62250187032088888373 81.65931751448813713523
 Triangle 00000000 00646464 -462.21572875253809797869 253.52928254972101740350 79.90368751021891569053  -462.21572875253809797869 255.93162951311262531817 79.50167055763218115771  -464.71572875253809797869 253.52928254972101740350 79.90368751021891569053
 Triangle 00000000 00646464 -464.71572875253809797869 253.52928254972101740350 79.90368751021891569053  -462.21572875253809797869 255.93162951311262531817 79.50167055763218115771  -464.71572875253809797869 255.93162951259878923338 79.50167055762055667856
-Triangle 00000000 00646464 -464.71572875253809797869 260.62250186997766832064 81.65931751410555250459  -464.71572875253809797869 258.50049734954677660426 80.09473829857194004944  -462.21572875253809797869 260.62250187032088888373 81.65931751448813713523
-Triangle 00000000 00646464 -462.21572875253809797869 260.62250187032088888373 81.65931751448813713523  -464.71572875253809797869 258.50049734954677660426 80.09473829857194004944  -462.21572875253809797869 258.50049734954671976084 80.09473829857194004944
+Triangle 00000000 00646464 -464.71572875253809797869 260.62250186997766832064 81.65931751410555250459  -464.71572875253809797869 258.50049734954677660426 80.09473829857194004944  -462.21572875253815482210 260.62250187032088888373 81.65931751448813713523
+Triangle 00000000 00646464 -462.21572875253815482210 260.62250187032088888373 81.65931751448813713523  -464.71572875253809797869 258.50049734954677660426 80.09473829857194004944  -462.21572875253809797869 258.50049734954671976084 80.09473829857194004944
 Triangle 00000000 00646464 -464.71572875253809797869 258.50049734954677660426 80.09473829857194004944  -464.71572875253809797869 255.93162951259878923338 79.50167055762055667856  -462.21572875253809797869 258.50049734954671976084 80.09473829857194004944
 Triangle 00000000 00646464 -462.21572875253809797869 258.50049734954671976084 80.09473829857194004944  -464.71572875253809797869 255.93162951259878923338 79.50167055762055667856  -462.21572875253809797869 255.93162951311262531817 79.50167055763218115771
 Triangle 00000000 00646464 -464.71572875253809797869 253.52928254972101740350 79.90368751021891569053  -464.71572875253809797869 251.44358876156746873676 81.16176937748423370067  -462.21572875253809797869 253.52928254972101740350 79.90368751021891569053
 Triangle 00000000 00646464 -462.21572875253809797869 253.52928254972101740350 79.90368751021891569053  -464.71572875253809797869 251.44358876156746873676 81.16176937748423370067  -462.21572875253809797869 251.44358876195002494569 81.16176937714099892673
 Triangle 00000000 00646464 -462.21572875253809797869 249.68795875768083192270 88.25498869774089882867  -462.21572875253809797869 249.28594180509401212475 85.85264173434930512485  -464.71572875253809797869 249.68795875768083192270 88.25498869774089882867
-Triangle 00000000 00646464 -464.71572875253809797869 249.68795875768083192270 88.25498869774089882867  -462.21572875253809797869 249.28594180509401212475 85.85264173434930512485  -464.71572875253798429185 249.28594180508241606731 85.85264173486304173366
-Triangle 00000000 00646464 -464.71572875253809797869 251.44358876156746873676 81.16176937748423370067  -464.71572875253809797869 249.87900954603387049247 83.28377389791518226048  -462.21572875253809797869 251.44358876195002494569 81.16176937714099892673
-Triangle 00000000 00646464 -462.21572875253809797869 251.44358876195002494569 81.16176937714099892673  -464.71572875253809797869 249.87900954603387049247 83.28377389791518226048  -462.21572875253809797869 249.87900954603387049247 83.28377389791519647133
-Triangle 00000000 00646464 -464.71572875253809797869 249.87900954603387049247 83.28377389791518226048  -464.71572875253798429185 249.28594180508241606731 85.85264173486304173366  -462.21572875253809797869 249.87900954603387049247 83.28377389791519647133
-Triangle 00000000 00646464 -462.21572875253809797869 249.87900954603387049247 83.28377389791519647133  -464.71572875253798429185 249.28594180508241606731 85.85264173486304173366  -462.21572875253809797869 249.28594180509401212475 85.85264173434930512485
+Triangle 00000000 00646464 -464.71572875253809797869 249.68795875768083192270 88.25498869774089882867  -462.21572875253809797869 249.28594180509401212475 85.85264173434930512485  -464.71572875253804113527 249.28594180508241606731 85.85264173486304173366
+Triangle 00000000 00646464 -464.71572875253809797869 251.44358876156746873676 81.16176937748423370067  -464.71572875253815482210 249.87900954603387049247 83.28377389791518226048  -462.21572875253809797869 251.44358876195002494569 81.16176937714099892673
+Triangle 00000000 00646464 -462.21572875253809797869 251.44358876195002494569 81.16176937714099892673  -464.71572875253815482210 249.87900954603387049247 83.28377389791518226048  -462.21572875253809797869 249.87900954603387049247 83.28377389791519647133
+Triangle 00000000 00646464 -464.71572875253815482210 249.87900954603387049247 83.28377389791518226048  -464.71572875253804113527 249.28594180508241606731 85.85264173486304173366  -462.21572875253809797869 249.87900954603387049247 83.28377389791519647133
+Triangle 00000000 00646464 -462.21572875253809797869 249.87900954603387049247 83.28377389791519647133  -464.71572875253804113527 249.28594180508241606731 85.85264173486304173366  -462.21572875253809797869 249.28594180509401212475 85.85264173434930512485
 Triangle 80140062 00646464 -502.01572875253799566053 -203.61787343315845077996 95.53263458918287653887  -502.01572875253816619079 -193.16129737362166451931 94.57868641914322438424  -502.01572875253816619079 -198.67061551251546802632 91.97518631973531455515
 Triangle 80140062 00646464 -502.01572875253816619079 -198.67061551251546802632 91.97518631973531455515  -502.01572875253816619079 -193.16129737362166451931 94.57868641914322438424  -502.01572875253810934737 -196.50945436626975038052 91.35500503699370256072
 Triangle 80140062 00646464 -502.01572875253810934737 -196.50945436626975038052 91.35500503699370256072  -502.01572875253816619079 -193.16129737362166451931 94.57868641914322438424  -502.01572875253810934737 -194.60518071846556154014 89.83964149700332768589
