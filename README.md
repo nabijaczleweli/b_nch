@@ -12,4 +12,4 @@ The SOLVESPACE models are in the repo root.
 
 An export in the form of a JS-based viewer can be found [here](//rawcdn.githack.com/nabijaczleweli/b_nch/master/exports/assembly.html).
 
-The build process is [documented](//twitter.com/nabijaczleweli/status/1127567692788051969) on Twitter.
+The build process is [documented](//lfs.nabijaczleweli.xyz/0017-twitter-export#1127567692788051969) on Twitter.
